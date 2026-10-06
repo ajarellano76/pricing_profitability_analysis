@@ -36,15 +36,24 @@ profitability analysis.
 
 ## Dataset
 
-The relational dataset contains:
+This project uses a **synthetic relational pricing dataset** created specifically
+for analytical practice and portfolio development. The data does not represent
+actual company, customer, employee, or transactional information.
+
+The dataset contains:
 
 - **10,000 orders**
 - **750 customers**
 - **50 products**
 - **40 sales representatives**
 
-The broader dataset also includes pricing, cost, competitor, discount, and sales 
-target information that will be incorporated into later stages of the analysis.
+The broader dataset also includes historical pricing, cost, competitor pricing,
+discount, and sales target data that will be incorporated into later stages of
+the analysis.
+
+The complete synthetic source dataset is available in [`data/raw`](data/raw),
+with additional documentation available in the
+[`documentation`](documentation) directory.
 
 Key transactional fields include:
 
