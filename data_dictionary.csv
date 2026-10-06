@@ -1,0 +1,15 @@
+table,column,definition,type,notes
+orders,order_id,Primary key for transaction,Integer,"10,000 rows"
+orders,product_id,Foreign key to products,Integer,Every value exists in products; 5 products intentionally have no orders
+orders,customer_id,Foreign key to customers,Integer,Every value exists in customers
+orders,revenue,Net transaction revenue after discounts/rebates plus freight,Decimal,Derived
+orders,gross_profit,Revenue minus total cost,Decimal,Derived
+orders,gross_margin_pct,Gross profit divided by revenue,Decimal,Derived
+products,product_id,Primary key,Integer,50 products
+products,standard_cost,Baseline unit manufacturing cost,Decimal,Used for product context
+customers,customer_id,Primary key,Integer,750 customers
+price_history,effective_date,Date the standard list price applies,Date,Monthly 2023-2025
+cost_history,effective_date,Date the unit cost applies,Date,Monthly 2023-2025
+discounts,customer_discount_pct,Customer-specific discount component,Decimal,Useful for leakage analysis
+competitor_prices,competitor_price,Observed competitor price,Decimal,Synthetic market observations
+sales_targets,revenue_target,Annual rep revenue target,Decimal,Synthetic planning target
