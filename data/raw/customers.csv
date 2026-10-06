@@ -1,0 +1,751 @@
+customer_id,customer_name,customer_segment,customer_tier,region,industry,annual_sales_potential,customer_start_year
+2077003,Customer 2077003,National Distributor,A,Northeast,Equipment Rental,7990266.61,2017
+4896744,Customer 4896744,Contractor,B,Canada,Utilities,244014.86,2022
+7948513,Customer 7948513,Regional Distributor,B,Canada,Equipment Rental,300990.48,2022
+2074074,Customer 2074074,Industrial OEM,A,South,Manufacturing,4505363.04,2017
+2030963,Customer 2030963,Service/Repair,C,South,Facilities,342299.15,2019
+6495418,Customer 6495418,Industrial OEM,A,South,Agriculture,1359934.08,2019
+4813942,Customer 4813942,Small Business,C,West,Equipment Rental,267110.86,2023
+4328694,Customer 4328694,Industrial OEM,A,Canada,Equipment Rental,2007360.87,2019
+4678843,Customer 4678843,Industrial OEM,A,Midwest,Manufacturing,1369649.71,2024
+2398965,Customer 2398965,Strategic Enterprise,A,West,Equipment Rental,6761891.22,2017
+6294463,Customer 6294463,Small Business,C,South,Equipment Rental,150178.9,2021
+5574908,Customer 5574908,Regional Distributor,B,West,Government,1162859.08,2019
+2356002,Customer 2356002,National Distributor,A,Midwest,Agriculture,6260435.67,2020
+1369711,Customer 1369711,National Distributor,A,West,Manufacturing,3789546.36,2025
+2975396,Customer 2975396,Industrial OEM,A,Northeast,Government,7125589.39,2021
+4993677,Customer 4993677,Regional Distributor,B,West,Manufacturing,1141878.93,2023
+4945456,Customer 4945456,Small Business,C,West,Automotive,218514.29,2020
+6876282,Customer 6876282,Regional Distributor,B,Northeast,Utilities,1265925.5,2018
+5489202,Customer 5489202,Regional Distributor,B,South,Utilities,911528.44,2024
+1774170,Customer 1774170,Strategic Enterprise,A,Midwest,Construction,7261580.48,2024
+4065213,Customer 4065213,Industrial OEM,A,South,Facilities,7548793.61,2021
+7658649,Customer 7658649,National Distributor,A,West,Automotive,2498646.03,2017
+5635578,Customer 5635578,National Distributor,A,Midwest,Utilities,7021973.2,2019
+2493097,Customer 2493097,Regional Distributor,B,Midwest,Construction,427276.9,2017
+9669080,Customer 9669080,National Distributor,A,Midwest,Facilities,1807285.07,2018
+8274641,Customer 8274641,Contractor,B,West,Equipment Rental,1495514.24,2018
+1589773,Customer 1589773,Regional Distributor,B,Mexico,Utilities,1238357.8,2024
+1503501,Customer 1503501,Industrial OEM,A,South,Facilities,7796193.1,2024
+7948631,Customer 7948631,National Distributor,A,Northeast,Automotive,2352458.26,2017
+3756990,Customer 3756990,Regional Distributor,B,Northeast,Automotive,1004751.4,2024
+1477202,Customer 1477202,Regional Distributor,B,Northeast,Facilities,916711.21,2019
+5867664,Customer 5867664,Contractor,B,Northeast,Government,661100.26,2019
+1789316,Customer 1789316,Contractor,B,Northeast,Manufacturing,909607.75,2021
+9017794,Customer 9017794,Small Business,C,Canada,Agriculture,37350.08,2022
+4350198,Customer 4350198,Regional Distributor,B,Canada,Facilities,156235.38,2025
+5717657,Customer 5717657,Contractor,B,Midwest,Government,1300396.21,2018
+3525380,Customer 3525380,Strategic Enterprise,A,West,Utilities,3315012.47,2024
+6307144,Customer 6307144,Regional Distributor,B,Midwest,Automotive,820397.15,2019
+3438519,Customer 3438519,Service/Repair,C,Canada,Facilities,309788.65,2022
+5775407,Customer 5775407,National Distributor,A,West,Agriculture,4372344.86,2023
+4476870,Customer 4476870,Industrial OEM,A,Northeast,Automotive,3923335.05,2018
+5863599,Customer 5863599,Regional Distributor,B,Northeast,Equipment Rental,182359.98,2021
+2231374,Customer 2231374,Contractor,B,Midwest,Utilities,658590.91,2018
+5855572,Customer 5855572,Industrial OEM,A,South,Construction,2500284.82,2021
+2732982,Customer 2732982,National Distributor,A,Mexico,Agriculture,3834958.43,2019
+3332429,Customer 3332429,Contractor,B,Canada,Construction,729185.26,2020
+6848399,Customer 6848399,Industrial OEM,A,Mexico,Construction,7710952.68,2021
+1197436,Customer 1197436,Small Business,C,Midwest,Agriculture,58776.45,2019
+6831225,Customer 6831225,Small Business,C,Midwest,Construction,207257.88,2023
+5038766,Customer 5038766,Industrial OEM,A,Midwest,Utilities,7781266.25,2021
+9184364,Customer 9184364,Service/Repair,C,Midwest,Agriculture,293906.33,2018
+9819706,Customer 9819706,Small Business,C,Mexico,Facilities,200072.98,2020
+6920287,Customer 6920287,Small Business,C,Mexico,Automotive,170613.27,2024
+9466166,Customer 9466166,Regional Distributor,B,Northeast,Utilities,254538.72,2023
+5407190,Customer 5407190,Service/Repair,C,South,Utilities,87920.53,2019
+6733231,Customer 6733231,National Distributor,A,South,Facilities,7553238.52,2022
+1361337,Customer 1361337,National Distributor,A,Midwest,Construction,2365869.69,2019
+8086517,Customer 8086517,Contractor,B,Midwest,Automotive,984015.03,2022
+6524271,Customer 6524271,Regional Distributor,B,Midwest,Facilities,741086.11,2024
+8031133,Customer 8031133,Contractor,B,South,Utilities,582991.06,2018
+8207700,Customer 8207700,Industrial OEM,A,Midwest,Government,6053347.46,2023
+8600040,Customer 8600040,National Distributor,A,South,Manufacturing,4636847.19,2019
+1401826,Customer 1401826,Industrial OEM,A,South,Facilities,3952362.44,2019
+2958548,Customer 2958548,Contractor,B,Midwest,Manufacturing,783156.86,2019
+7188709,Customer 7188709,Strategic Enterprise,A,West,Utilities,5537286.11,2021
+5766725,Customer 5766725,Small Business,C,South,Government,241711.88,2025
+5682240,Customer 5682240,Regional Distributor,B,South,Facilities,832779.12,2021
+7574280,Customer 7574280,National Distributor,A,West,Utilities,1918086.18,2018
+3300953,Customer 3300953,Small Business,C,Midwest,Government,70959.62,2019
+8654222,Customer 8654222,Regional Distributor,B,South,Manufacturing,1176737.13,2024
+7744390,Customer 7744390,Regional Distributor,B,South,Manufacturing,519130.1,2020
+5732294,Customer 5732294,Contractor,B,West,Manufacturing,799516.19,2022
+6850709,Customer 6850709,Small Business,C,South,Government,139067.49,2018
+3687894,Customer 3687894,Industrial OEM,A,Northeast,Manufacturing,2686489.81,2018
+3138888,Customer 3138888,National Distributor,A,South,Agriculture,3120752.4,2021
+1500086,Customer 1500086,Service/Repair,C,South,Equipment Rental,349613.78,2021
+4284124,Customer 4284124,Small Business,C,Canada,Automotive,46780.82,2023
+7458658,Customer 7458658,Industrial OEM,A,South,Construction,3851536.72,2022
+6498578,Customer 6498578,National Distributor,A,Midwest,Equipment Rental,6551034.85,2023
+9632800,Customer 9632800,Small Business,C,Northeast,Equipment Rental,220078.8,2022
+5088556,Customer 5088556,Regional Distributor,B,South,Facilities,379229.96,2023
+8956817,Customer 8956817,Service/Repair,C,Northeast,Construction,83333.98,2023
+1039410,Customer 1039410,Small Business,C,Midwest,Manufacturing,243643.84,2025
+5429012,Customer 5429012,Regional Distributor,B,Midwest,Equipment Rental,507206.77,2025
+3214597,Customer 3214597,Regional Distributor,B,West,Utilities,660729.32,2024
+7963343,Customer 7963343,Strategic Enterprise,A,South,Manufacturing,7958544.41,2025
+1141735,Customer 1141735,Small Business,C,Midwest,Automotive,142609.26,2019
+2081458,Customer 2081458,National Distributor,A,Northeast,Manufacturing,4355919.52,2023
+6513655,Customer 6513655,Service/Repair,C,Northeast,Government,101138.94,2025
+8926393,Customer 8926393,Contractor,B,Midwest,Government,420759.34,2020
+9862643,Customer 9862643,Regional Distributor,B,West,Utilities,1233672.82,2022
+5515495,Customer 5515495,Regional Distributor,B,Midwest,Agriculture,692764.53,2020
+2066226,Customer 2066226,Regional Distributor,B,Midwest,Equipment Rental,1012987.96,2018
+9713183,Customer 9713183,Small Business,C,Canada,Manufacturing,36676.88,2024
+6633819,Customer 6633819,Regional Distributor,B,South,Equipment Rental,323195.9,2018
+3115855,Customer 3115855,Contractor,B,South,Facilities,862067.8,2017
+6531968,Customer 6531968,Contractor,B,Northeast,Equipment Rental,471757.01,2023
+7044409,Customer 7044409,Contractor,B,Northeast,Automotive,1382757.56,2023
+2257014,Customer 2257014,Contractor,B,South,Government,1223563.55,2017
+4457844,Customer 4457844,Small Business,C,Mexico,Government,176397.8,2017
+6246078,Customer 6246078,National Distributor,A,Northeast,Facilities,7128773.31,2022
+4540858,Customer 4540858,Service/Repair,C,Canada,Utilities,131162.66,2019
+7864081,Customer 7864081,Contractor,B,West,Automotive,447213.15,2019
+9282941,Customer 9282941,Industrial OEM,A,Midwest,Automotive,3437931.18,2024
+1899766,Customer 1899766,Service/Repair,C,Midwest,Utilities,305980.91,2019
+9960151,Customer 9960151,Small Business,C,Midwest,Government,101080.92,2024
+9637956,Customer 9637956,Strategic Enterprise,A,Mexico,Manufacturing,5970118.16,2025
+5644788,Customer 5644788,Industrial OEM,A,South,Automotive,5483074.48,2024
+5317289,Customer 5317289,Regional Distributor,B,South,Equipment Rental,1462667.43,2023
+2386081,Customer 2386081,Regional Distributor,B,Midwest,Facilities,271501.88,2020
+1495472,Customer 1495472,Service/Repair,C,Midwest,Construction,211479.27,2017
+3436673,Customer 3436673,Contractor,B,Canada,Equipment Rental,854868.88,2020
+1604493,Customer 1604493,Regional Distributor,B,South,Utilities,1225371.84,2020
+5126627,Customer 5126627,Regional Distributor,B,Canada,Manufacturing,1076167.32,2024
+3628432,Customer 3628432,Contractor,B,Northeast,Construction,1080016.96,2018
+1927150,Customer 1927150,Contractor,B,Northeast,Agriculture,989513.74,2018
+4820064,Customer 4820064,National Distributor,A,West,Automotive,5723252.49,2023
+7683915,Customer 7683915,Industrial OEM,A,Midwest,Utilities,2556575.5,2023
+1065828,Customer 1065828,Small Business,C,South,Manufacturing,184734.09,2017
+6452955,Customer 6452955,Small Business,C,South,Automotive,263380.0,2018
+2329945,Customer 2329945,Industrial OEM,A,South,Construction,7451794.89,2025
+1215683,Customer 1215683,Industrial OEM,A,Midwest,Facilities,2518412.86,2022
+7298244,Customer 7298244,Contractor,B,West,Utilities,919476.92,2017
+8403084,Customer 8403084,National Distributor,A,South,Facilities,3283668.54,2019
+1461236,Customer 1461236,Regional Distributor,B,Canada,Equipment Rental,1170725.75,2020
+9163610,Customer 9163610,Regional Distributor,B,Northeast,Facilities,504876.3,2023
+6151408,Customer 6151408,Service/Repair,C,South,Facilities,327868.04,2019
+9289093,Customer 9289093,Industrial OEM,A,West,Manufacturing,3122414.54,2021
+8016378,Customer 8016378,Small Business,C,West,Facilities,200603.34,2017
+4007025,Customer 4007025,Industrial OEM,A,South,Automotive,3858261.16,2020
+4636099,Customer 4636099,National Distributor,A,Midwest,Agriculture,6953646.15,2017
+6990735,Customer 6990735,Contractor,B,Midwest,Equipment Rental,388951.91,2025
+7388736,Customer 7388736,Strategic Enterprise,A,Midwest,Agriculture,5072091.09,2017
+5789390,Customer 5789390,Contractor,B,South,Manufacturing,246926.14,2022
+3690448,Customer 3690448,Strategic Enterprise,A,Midwest,Facilities,7327329.32,2025
+1720414,Customer 1720414,Contractor,B,West,Manufacturing,1436750.31,2022
+5313992,Customer 5313992,Industrial OEM,A,Northeast,Agriculture,2570911.25,2021
+8142973,Customer 8142973,Strategic Enterprise,A,South,Government,5508065.81,2021
+9222967,Customer 9222967,Contractor,B,Midwest,Equipment Rental,964598.04,2018
+6284070,Customer 6284070,Regional Distributor,B,South,Construction,388500.42,2022
+6711341,Customer 6711341,National Distributor,A,Canada,Facilities,1125026.71,2021
+7653241,Customer 7653241,Contractor,B,Mexico,Construction,1460458.72,2024
+1266460,Customer 1266460,Small Business,C,South,Construction,208707.85,2021
+1917083,Customer 1917083,Contractor,B,Midwest,Manufacturing,1296120.87,2023
+1325442,Customer 1325442,Regional Distributor,B,Mexico,Automotive,648134.55,2020
+1957707,Customer 1957707,Industrial OEM,A,Mexico,Manufacturing,6139024.42,2022
+8788950,Customer 8788950,Small Business,C,Midwest,Utilities,105105.02,2017
+6201846,Customer 6201846,Service/Repair,C,Midwest,Government,132112.86,2019
+4120339,Customer 4120339,Industrial OEM,A,West,Construction,2995856.8,2023
+3291812,Customer 3291812,Small Business,C,South,Automotive,58246.63,2020
+3875037,Customer 3875037,Industrial OEM,A,Midwest,Facilities,2068830.94,2021
+4118357,Customer 4118357,National Distributor,A,South,Agriculture,3900476.4,2020
+7680810,Customer 7680810,Contractor,B,Northeast,Construction,296700.41,2021
+4531278,Customer 4531278,Industrial OEM,A,Northeast,Manufacturing,6672117.89,2018
+2154352,Customer 2154352,Strategic Enterprise,A,South,Automotive,3413818.82,2017
+3418758,Customer 3418758,Service/Repair,C,Midwest,Equipment Rental,113986.5,2023
+8037850,Customer 8037850,Contractor,B,Canada,Equipment Rental,207167.25,2025
+6609436,Customer 6609436,National Distributor,A,Northeast,Automotive,7913532.13,2017
+2082003,Customer 2082003,Regional Distributor,B,South,Equipment Rental,791083.73,2018
+7074378,Customer 7074378,Service/Repair,C,Midwest,Construction,159806.19,2017
+6744086,Customer 6744086,Industrial OEM,A,Mexico,Facilities,2811849.46,2018
+5525932,Customer 5525932,Regional Distributor,B,Canada,Utilities,866476.44,2019
+9991300,Customer 9991300,Regional Distributor,B,Midwest,Manufacturing,420247.63,2021
+7990424,Customer 7990424,Contractor,B,Midwest,Manufacturing,620961.88,2021
+4736715,Customer 4736715,Regional Distributor,B,Canada,Utilities,438671.61,2020
+5040681,Customer 5040681,Strategic Enterprise,A,South,Agriculture,1867566.38,2020
+9330479,Customer 9330479,Small Business,C,Canada,Manufacturing,255483.58,2023
+2151204,Customer 2151204,Regional Distributor,B,Midwest,Facilities,869887.24,2021
+1322584,Customer 1322584,Strategic Enterprise,A,Canada,Automotive,2852019.94,2023
+2972098,Customer 2972098,Regional Distributor,B,Midwest,Manufacturing,410471.34,2020
+5462159,Customer 5462159,Regional Distributor,B,Northeast,Utilities,184026.68,2019
+4002523,Customer 4002523,Service/Repair,C,Canada,Equipment Rental,123811.92,2017
+4739580,Customer 4739580,Contractor,B,Canada,Equipment Rental,736371.49,2023
+9549370,Customer 9549370,Regional Distributor,B,Canada,Equipment Rental,1492263.39,2017
+6395895,Customer 6395895,Contractor,B,Midwest,Construction,1228950.94,2021
+9283659,Customer 9283659,National Distributor,A,Midwest,Equipment Rental,3899242.65,2021
+9185689,Customer 9185689,Regional Distributor,B,South,Agriculture,514960.31,2025
+8631532,Customer 8631532,Regional Distributor,B,South,Utilities,497452.62,2017
+2287106,Customer 2287106,Regional Distributor,B,South,Manufacturing,1262281.69,2023
+5393382,Customer 5393382,Contractor,B,Mexico,Facilities,341840.3,2022
+1225092,Customer 1225092,Small Business,C,South,Manufacturing,58011.4,2020
+3154692,Customer 3154692,Contractor,B,Midwest,Automotive,1251466.64,2021
+4340203,Customer 4340203,Regional Distributor,B,West,Automotive,1415019.43,2019
+3317297,Customer 3317297,Regional Distributor,B,South,Manufacturing,747585.62,2023
+9181516,Customer 9181516,Service/Repair,C,South,Construction,324378.02,2025
+4606852,Customer 4606852,National Distributor,A,Canada,Construction,7632451.32,2023
+4612135,Customer 4612135,Industrial OEM,A,Midwest,Utilities,7288627.69,2022
+5018619,Customer 5018619,Strategic Enterprise,A,West,Construction,3373111.0,2024
+1813908,Customer 1813908,Contractor,B,Canada,Facilities,582217.31,2024
+8274330,Customer 8274330,Regional Distributor,B,Midwest,Automotive,493641.57,2018
+1131144,Customer 1131144,Regional Distributor,B,South,Manufacturing,616267.58,2025
+4929872,Customer 4929872,Regional Distributor,B,South,Equipment Rental,854673.15,2025
+1108816,Customer 1108816,Strategic Enterprise,A,South,Equipment Rental,5888228.86,2017
+6880910,Customer 6880910,Contractor,B,Midwest,Construction,835363.95,2024
+3146830,Customer 3146830,Contractor,B,South,Equipment Rental,1287314.25,2017
+1840635,Customer 1840635,Contractor,B,Midwest,Construction,1025336.88,2017
+8616449,Customer 8616449,Regional Distributor,B,West,Manufacturing,276336.98,2023
+4706090,Customer 4706090,National Distributor,A,Northeast,Equipment Rental,7804491.24,2018
+3927273,Customer 3927273,Regional Distributor,B,Midwest,Agriculture,208286.55,2025
+6283935,Customer 6283935,Service/Repair,C,West,Government,163925.02,2017
+7486079,Customer 7486079,Industrial OEM,A,South,Agriculture,5187175.16,2024
+7160016,Customer 7160016,Regional Distributor,B,Midwest,Construction,538088.58,2017
+9578192,Customer 9578192,Industrial OEM,A,Canada,Equipment Rental,1228147.1,2023
+3255403,Customer 3255403,Regional Distributor,B,Mexico,Construction,417458.95,2020
+4157648,Customer 4157648,Contractor,B,Northeast,Utilities,337083.74,2017
+6312796,Customer 6312796,Small Business,C,Northeast,Government,76205.3,2023
+7643547,Customer 7643547,Contractor,B,Northeast,Construction,239637.68,2023
+8816302,Customer 8816302,National Distributor,A,Midwest,Equipment Rental,1394021.69,2021
+3110775,Customer 3110775,Industrial OEM,A,West,Automotive,4422288.11,2020
+5532467,Customer 5532467,Small Business,C,Midwest,Manufacturing,239520.61,2025
+5942040,Customer 5942040,Regional Distributor,B,Northeast,Government,853948.33,2020
+2114800,Customer 2114800,Regional Distributor,B,Midwest,Agriculture,352421.0,2018
+3824905,Customer 3824905,National Distributor,A,West,Automotive,6933665.28,2022
+5200358,Customer 5200358,Strategic Enterprise,A,West,Construction,7910304.32,2017
+9513712,Customer 9513712,Contractor,B,West,Construction,164761.87,2018
+3167300,Customer 3167300,Regional Distributor,B,Midwest,Facilities,899595.09,2018
+5652797,Customer 5652797,Contractor,B,Canada,Equipment Rental,483810.56,2023
+5858231,Customer 5858231,Regional Distributor,B,Canada,Agriculture,1465697.06,2018
+8212846,Customer 8212846,Industrial OEM,A,Midwest,Automotive,2656913.96,2024
+9560098,Customer 9560098,National Distributor,A,Midwest,Facilities,6357248.57,2025
+4782296,Customer 4782296,Strategic Enterprise,A,West,Government,5421399.8,2025
+4096561,Customer 4096561,Contractor,B,Northeast,Government,1441911.64,2018
+2804249,Customer 2804249,Industrial OEM,A,West,Government,7983671.75,2023
+7113812,Customer 7113812,Industrial OEM,A,South,Automotive,1343518.33,2023
+9541811,Customer 9541811,Contractor,B,West,Automotive,1216828.26,2025
+8930388,Customer 8930388,Contractor,B,Midwest,Automotive,861989.7,2021
+5702680,Customer 5702680,National Distributor,A,South,Government,2552165.91,2020
+1598838,Customer 1598838,Contractor,B,Northeast,Automotive,1316546.28,2020
+8748665,Customer 8748665,Regional Distributor,B,Midwest,Automotive,410584.01,2025
+8073022,Customer 8073022,Industrial OEM,A,Midwest,Facilities,1740250.96,2024
+8644163,Customer 8644163,Contractor,B,West,Utilities,971690.67,2018
+3679928,Customer 3679928,Strategic Enterprise,A,Canada,Utilities,7185663.97,2022
+7327112,Customer 7327112,Small Business,C,South,Manufacturing,333663.77,2021
+2053845,Customer 2053845,Regional Distributor,B,Midwest,Equipment Rental,1415034.68,2024
+5184661,Customer 5184661,Industrial OEM,A,Northeast,Government,1836139.05,2019
+7297611,Customer 7297611,National Distributor,A,Midwest,Equipment Rental,4840298.42,2020
+3394823,Customer 3394823,Regional Distributor,B,South,Automotive,353840.73,2017
+6767744,Customer 6767744,Small Business,C,South,Facilities,247863.53,2021
+8015909,Customer 8015909,Service/Repair,C,South,Construction,24091.08,2024
+7386658,Customer 7386658,Industrial OEM,A,South,Automotive,3378019.38,2024
+6842754,Customer 6842754,Service/Repair,C,Midwest,Utilities,199292.03,2019
+5286295,Customer 5286295,Contractor,B,Mexico,Utilities,1085241.62,2019
+9861404,Customer 9861404,Industrial OEM,A,Midwest,Agriculture,5323686.22,2019
+4751496,Customer 4751496,Contractor,B,Northeast,Automotive,284935.01,2017
+8977219,Customer 8977219,Strategic Enterprise,A,South,Facilities,6257061.27,2018
+4288368,Customer 4288368,Contractor,B,Canada,Automotive,1400345.96,2019
+6503545,Customer 6503545,Strategic Enterprise,A,Midwest,Equipment Rental,1027259.02,2018
+8444210,Customer 8444210,Industrial OEM,A,Northeast,Manufacturing,6373627.23,2024
+4354248,Customer 4354248,Regional Distributor,B,Canada,Construction,699255.38,2022
+2997307,Customer 2997307,Industrial OEM,A,West,Facilities,4197219.19,2017
+2380916,Customer 2380916,Contractor,B,Midwest,Manufacturing,624150.95,2025
+5614577,Customer 5614577,Industrial OEM,A,West,Equipment Rental,2897965.2,2020
+5096058,Customer 5096058,Small Business,C,Canada,Equipment Rental,95350.96,2022
+1073121,Customer 1073121,Contractor,B,South,Facilities,612513.18,2023
+3853211,Customer 3853211,National Distributor,A,South,Manufacturing,7214331.73,2018
+2772665,Customer 2772665,Industrial OEM,A,Midwest,Utilities,6760551.14,2024
+1698770,Customer 1698770,Contractor,B,Canada,Equipment Rental,1340183.25,2025
+8560614,Customer 8560614,Contractor,B,Canada,Equipment Rental,717219.85,2020
+5079345,Customer 5079345,Industrial OEM,A,Canada,Government,3760981.51,2023
+1763292,Customer 1763292,Small Business,C,Northeast,Manufacturing,182231.41,2022
+6003514,Customer 6003514,Small Business,C,Midwest,Equipment Rental,222713.01,2022
+6677306,Customer 6677306,Regional Distributor,B,South,Utilities,826327.33,2024
+6005372,Customer 6005372,Contractor,B,Northeast,Equipment Rental,1302428.4,2017
+4903853,Customer 4903853,Regional Distributor,B,West,Automotive,1056394.76,2021
+1076918,Customer 1076918,Service/Repair,C,Northeast,Automotive,308700.78,2018
+9424483,Customer 9424483,Small Business,C,Midwest,Manufacturing,247288.23,2023
+3434619,Customer 3434619,Regional Distributor,B,West,Automotive,782347.18,2019
+6846901,Customer 6846901,National Distributor,A,West,Manufacturing,7803960.4,2024
+2252115,Customer 2252115,Small Business,C,Midwest,Manufacturing,24006.5,2020
+9530173,Customer 9530173,Industrial OEM,A,West,Automotive,3486970.78,2019
+8900815,Customer 8900815,Contractor,B,Midwest,Government,1355421.74,2023
+6149271,Customer 6149271,Contractor,B,Northeast,Agriculture,771050.6,2017
+2259255,Customer 2259255,Contractor,B,South,Automotive,1289951.63,2018
+5046025,Customer 5046025,Regional Distributor,B,West,Equipment Rental,401993.84,2025
+3642850,Customer 3642850,Regional Distributor,B,West,Construction,259060.24,2020
+4245748,Customer 4245748,Small Business,C,West,Equipment Rental,235419.78,2023
+4449608,Customer 4449608,National Distributor,A,Northeast,Facilities,1507184.82,2017
+8667872,Customer 8667872,Small Business,C,Mexico,Government,312849.56,2018
+6151843,Customer 6151843,Contractor,B,Northeast,Construction,843965.06,2021
+2072896,Customer 2072896,National Distributor,A,Midwest,Manufacturing,5464530.28,2023
+8224651,Customer 8224651,Contractor,B,South,Government,670309.21,2023
+4002497,Customer 4002497,Contractor,B,Mexico,Construction,932547.37,2024
+6087410,Customer 6087410,Contractor,B,West,Agriculture,814824.94,2021
+3957213,Customer 3957213,National Distributor,A,Midwest,Automotive,3301459.38,2025
+8149722,Customer 8149722,Strategic Enterprise,A,Canada,Manufacturing,5854537.97,2021
+2042659,Customer 2042659,Regional Distributor,B,South,Automotive,1396471.96,2023
+2418392,Customer 2418392,Strategic Enterprise,A,Mexico,Government,7865302.28,2019
+7692764,Customer 7692764,Small Business,C,West,Manufacturing,172723.65,2018
+2783714,Customer 2783714,Contractor,B,West,Equipment Rental,515134.61,2022
+6386130,Customer 6386130,Contractor,B,South,Construction,481230.96,2020
+4436296,Customer 4436296,Regional Distributor,B,Midwest,Automotive,658233.74,2019
+5047349,Customer 5047349,Small Business,C,Northeast,Utilities,238086.5,2025
+7071350,Customer 7071350,Contractor,B,South,Utilities,859132.27,2021
+3172333,Customer 3172333,Industrial OEM,A,Midwest,Construction,3873090.31,2019
+7031607,Customer 7031607,Contractor,B,South,Construction,486890.04,2024
+6053375,Customer 6053375,Regional Distributor,B,Northeast,Manufacturing,151336.49,2018
+7282670,Customer 7282670,Contractor,B,Northeast,Construction,449461.46,2021
+9972660,Customer 9972660,National Distributor,A,Midwest,Facilities,2025827.79,2022
+2163960,Customer 2163960,Service/Repair,C,Midwest,Automotive,225613.6,2022
+4844305,Customer 4844305,Regional Distributor,B,Canada,Utilities,1496043.16,2023
+6091673,Customer 6091673,Service/Repair,C,Midwest,Government,252450.97,2024
+2874231,Customer 2874231,Industrial OEM,A,West,Manufacturing,4193731.15,2019
+5737144,Customer 5737144,Strategic Enterprise,A,West,Equipment Rental,7995730.26,2018
+5048575,Customer 5048575,Strategic Enterprise,A,South,Government,5788000.72,2020
+6732931,Customer 6732931,Contractor,B,Midwest,Government,1340574.74,2024
+5639649,Customer 5639649,Regional Distributor,B,Midwest,Utilities,165102.12,2024
+9122666,Customer 9122666,Small Business,C,Midwest,Manufacturing,127053.87,2021
+7075027,Customer 7075027,Service/Repair,C,Canada,Equipment Rental,68822.48,2021
+1965252,Customer 1965252,Industrial OEM,A,Northeast,Facilities,2099178.48,2023
+8518803,Customer 8518803,Small Business,C,Mexico,Facilities,104859.66,2025
+1159017,Customer 1159017,Regional Distributor,B,Northeast,Automotive,397479.52,2018
+4877649,Customer 4877649,National Distributor,A,Canada,Government,4540072.9,2023
+3177152,Customer 3177152,Contractor,B,Canada,Government,525593.15,2023
+8127731,Customer 8127731,Strategic Enterprise,A,Midwest,Automotive,1424950.29,2018
+3845777,Customer 3845777,Small Business,C,West,Automotive,205793.55,2017
+6660633,Customer 6660633,Contractor,B,Midwest,Utilities,282407.77,2022
+2940631,Customer 2940631,Regional Distributor,B,West,Automotive,1195464.08,2021
+7524308,Customer 7524308,Strategic Enterprise,A,West,Construction,3050551.35,2021
+6610149,Customer 6610149,Regional Distributor,B,West,Government,273605.78,2020
+4882561,Customer 4882561,Regional Distributor,B,West,Manufacturing,920486.32,2020
+3502123,Customer 3502123,Regional Distributor,B,Canada,Manufacturing,660284.71,2020
+3560844,Customer 3560844,Regional Distributor,B,Midwest,Construction,1103233.09,2025
+9983560,Customer 9983560,National Distributor,A,South,Construction,3658035.29,2021
+4767168,Customer 4767168,Contractor,B,Mexico,Utilities,1017409.95,2024
+2406835,Customer 2406835,Small Business,C,Midwest,Manufacturing,222820.05,2024
+3234472,Customer 3234472,Contractor,B,Midwest,Utilities,514364.11,2024
+8708571,Customer 8708571,Regional Distributor,B,Canada,Utilities,752142.82,2022
+7612209,Customer 7612209,Contractor,B,South,Manufacturing,1451418.5,2021
+4084155,Customer 4084155,Small Business,C,Canada,Government,220906.58,2023
+6866811,Customer 6866811,Regional Distributor,B,Midwest,Agriculture,1204240.64,2021
+3744731,Customer 3744731,National Distributor,A,South,Agriculture,4827694.22,2018
+3754069,Customer 3754069,Small Business,C,Mexico,Facilities,47575.47,2019
+4123120,Customer 4123120,Regional Distributor,B,Midwest,Utilities,413816.44,2023
+8069824,Customer 8069824,Contractor,B,West,Equipment Rental,1022676.5,2017
+3213186,Customer 3213186,Regional Distributor,B,Midwest,Facilities,1036205.77,2021
+1861033,Customer 1861033,National Distributor,A,West,Government,2894274.87,2025
+7797695,Customer 7797695,Regional Distributor,B,South,Agriculture,410560.17,2019
+9819820,Customer 9819820,Contractor,B,Mexico,Manufacturing,1366492.17,2023
+5297428,Customer 5297428,Contractor,B,West,Construction,226703.87,2017
+2688317,Customer 2688317,Regional Distributor,B,Midwest,Utilities,235945.85,2020
+6265123,Customer 6265123,Contractor,B,West,Government,398119.29,2018
+6316663,Customer 6316663,Regional Distributor,B,Midwest,Automotive,597861.57,2024
+1857132,Customer 1857132,Small Business,C,Northeast,Construction,67048.52,2017
+4045999,Customer 4045999,Contractor,B,West,Government,404556.11,2024
+2331247,Customer 2331247,Service/Repair,C,West,Automotive,243743.81,2020
+8910963,Customer 8910963,Small Business,C,Northeast,Construction,329214.95,2023
+3145382,Customer 3145382,Industrial OEM,A,Midwest,Agriculture,1403848.7,2018
+6024597,Customer 6024597,National Distributor,A,Northeast,Equipment Rental,2365206.27,2021
+6906013,Customer 6906013,Contractor,B,Northeast,Government,277034.06,2022
+3979857,Customer 3979857,Contractor,B,Canada,Facilities,1026680.03,2024
+1013814,Customer 1013814,Strategic Enterprise,A,Midwest,Utilities,1766411.28,2018
+6583056,Customer 6583056,Small Business,C,South,Government,137084.63,2022
+1944786,Customer 1944786,Regional Distributor,B,Northeast,Construction,1246024.71,2019
+4783398,Customer 4783398,National Distributor,A,West,Government,5740231.73,2020
+6727329,Customer 6727329,Industrial OEM,A,Midwest,Utilities,4628129.93,2017
+4077296,Customer 4077296,Service/Repair,C,Northeast,Manufacturing,316422.65,2025
+4455163,Customer 4455163,Small Business,C,Northeast,Automotive,134027.21,2019
+8111396,Customer 8111396,Small Business,C,South,Equipment Rental,109403.73,2025
+3562505,Customer 3562505,Strategic Enterprise,A,West,Utilities,1710045.36,2018
+5540482,Customer 5540482,Strategic Enterprise,A,West,Construction,1502439.65,2017
+9653475,Customer 9653475,National Distributor,A,West,Manufacturing,7660795.35,2019
+1983519,Customer 1983519,Contractor,B,West,Automotive,1256745.0,2020
+1044011,Customer 1044011,Regional Distributor,B,Midwest,Automotive,195373.46,2017
+1368513,Customer 1368513,National Distributor,A,South,Construction,5399336.41,2018
+6688604,Customer 6688604,Regional Distributor,B,West,Utilities,813613.79,2017
+8208191,Customer 8208191,Contractor,B,South,Facilities,185746.79,2021
+5631578,Customer 5631578,Regional Distributor,B,Mexico,Agriculture,213941.09,2018
+6871586,Customer 6871586,Contractor,B,Midwest,Construction,1414823.83,2024
+8396616,Customer 8396616,Regional Distributor,B,Midwest,Automotive,287411.08,2024
+5673391,Customer 5673391,Strategic Enterprise,A,South,Agriculture,5953766.37,2018
+3813129,Customer 3813129,Industrial OEM,A,Canada,Equipment Rental,4545313.17,2021
+4586854,Customer 4586854,Strategic Enterprise,A,Midwest,Agriculture,3566812.93,2022
+3290197,Customer 3290197,Regional Distributor,B,South,Facilities,1259393.63,2018
+3374608,Customer 3374608,Industrial OEM,A,West,Construction,6568676.41,2019
+7126119,Customer 7126119,Strategic Enterprise,A,Midwest,Utilities,1271058.21,2019
+4490421,Customer 4490421,Contractor,B,South,Agriculture,1050398.92,2018
+9237589,Customer 9237589,Contractor,B,South,Agriculture,595929.15,2019
+8541323,Customer 8541323,National Distributor,A,South,Government,7248942.55,2017
+9084649,Customer 9084649,Industrial OEM,A,South,Manufacturing,1070905.36,2019
+9464853,Customer 9464853,Regional Distributor,B,Canada,Facilities,901723.76,2022
+2473698,Customer 2473698,Contractor,B,Mexico,Government,512493.42,2020
+6886765,Customer 6886765,Service/Repair,C,Midwest,Government,44677.91,2023
+6858287,Customer 6858287,Contractor,B,West,Construction,1276470.72,2021
+5146523,Customer 5146523,Small Business,C,West,Facilities,186971.92,2023
+5034044,Customer 5034044,Contractor,B,Midwest,Construction,223415.67,2022
+1776268,Customer 1776268,Contractor,B,West,Manufacturing,1297882.97,2021
+7307848,Customer 7307848,Contractor,B,Northeast,Agriculture,863694.27,2024
+9270050,Customer 9270050,Small Business,C,West,Facilities,344920.43,2021
+1542607,Customer 1542607,Strategic Enterprise,A,South,Manufacturing,3301499.18,2022
+1260977,Customer 1260977,Regional Distributor,B,Midwest,Automotive,641888.13,2018
+8198472,Customer 8198472,Contractor,B,West,Agriculture,1259214.99,2024
+3473386,Customer 3473386,Strategic Enterprise,A,Midwest,Automotive,7936060.91,2018
+9072730,Customer 9072730,Strategic Enterprise,A,West,Facilities,4158020.21,2020
+8022169,Customer 8022169,Contractor,B,West,Agriculture,556695.86,2024
+8912227,Customer 8912227,Industrial OEM,A,South,Facilities,4866329.25,2023
+7643548,Customer 7643548,Small Business,C,Canada,Utilities,165909.02,2020
+3697242,Customer 3697242,Small Business,C,South,Government,243209.95,2019
+4089600,Customer 4089600,National Distributor,A,South,Government,5117879.88,2021
+1825438,Customer 1825438,National Distributor,A,West,Automotive,6019398.77,2020
+7317681,Customer 7317681,Industrial OEM,A,South,Equipment Rental,1004496.13,2017
+5266962,Customer 5266962,Industrial OEM,A,West,Automotive,5769609.02,2022
+5765840,Customer 5765840,Service/Repair,C,Mexico,Government,221111.69,2024
+9988563,Customer 9988563,Contractor,B,West,Manufacturing,1322122.82,2022
+3902412,Customer 3902412,Industrial OEM,A,South,Utilities,1760105.83,2025
+2558054,Customer 2558054,Strategic Enterprise,A,Midwest,Utilities,4314327.81,2019
+8986473,Customer 8986473,Regional Distributor,B,South,Equipment Rental,559836.58,2023
+7995916,Customer 7995916,Small Business,C,Midwest,Automotive,178426.42,2025
+8722981,Customer 8722981,National Distributor,A,Canada,Facilities,7045774.28,2018
+1667582,Customer 1667582,Regional Distributor,B,West,Automotive,1399886.94,2020
+1631771,Customer 1631771,Contractor,B,South,Automotive,399002.05,2019
+5130115,Customer 5130115,Small Business,C,South,Equipment Rental,271442.9,2025
+7040594,Customer 7040594,Regional Distributor,B,South,Manufacturing,672473.11,2020
+6703758,Customer 6703758,Contractor,B,Midwest,Agriculture,1219231.38,2022
+1927022,Customer 1927022,Small Business,C,West,Government,277187.99,2020
+1110715,Customer 1110715,Small Business,C,Northeast,Agriculture,34651.11,2021
+6277804,Customer 6277804,Small Business,C,Canada,Facilities,114655.73,2019
+4299356,Customer 4299356,Industrial OEM,A,Midwest,Manufacturing,7548856.0,2019
+7977491,Customer 7977491,National Distributor,A,Midwest,Manufacturing,5592333.24,2017
+8770445,Customer 8770445,Contractor,B,West,Facilities,365646.93,2019
+3716285,Customer 3716285,Contractor,B,Midwest,Facilities,1277942.6,2020
+9621743,Customer 9621743,Small Business,C,West,Automotive,55108.27,2023
+9742673,Customer 9742673,Contractor,B,Northeast,Facilities,233446.15,2017
+5387830,Customer 5387830,Small Business,C,South,Manufacturing,289225.01,2022
+4387184,Customer 4387184,Strategic Enterprise,A,West,Manufacturing,3450302.56,2020
+5994725,Customer 5994725,Regional Distributor,B,Midwest,Equipment Rental,424251.93,2024
+9714148,Customer 9714148,National Distributor,A,Northeast,Construction,7156267.99,2025
+1440664,Customer 1440664,Small Business,C,West,Facilities,89702.93,2020
+8577569,Customer 8577569,Regional Distributor,B,South,Manufacturing,974613.14,2017
+2724372,Customer 2724372,Small Business,C,Canada,Agriculture,111793.55,2024
+6471470,Customer 6471470,Contractor,B,Midwest,Construction,807511.42,2023
+7021766,Customer 7021766,Regional Distributor,B,Mexico,Construction,664903.81,2019
+9293938,Customer 9293938,National Distributor,A,South,Automotive,6263653.56,2022
+7600194,Customer 7600194,Strategic Enterprise,A,South,Construction,7183416.89,2025
+1048865,Customer 1048865,Strategic Enterprise,A,Midwest,Government,3318937.55,2024
+2104580,Customer 2104580,Small Business,C,West,Government,301219.13,2025
+4704097,Customer 4704097,Contractor,B,West,Equipment Rental,791529.96,2022
+4386974,Customer 4386974,Small Business,C,South,Automotive,337422.41,2022
+7419190,Customer 7419190,Contractor,B,West,Manufacturing,1374318.26,2022
+5946909,Customer 5946909,National Distributor,A,Mexico,Automotive,2785122.24,2024
+2815919,Customer 2815919,National Distributor,A,Midwest,Utilities,6995472.01,2018
+5934089,Customer 5934089,Regional Distributor,B,Canada,Government,420365.62,2023
+9349601,Customer 9349601,Industrial OEM,A,West,Automotive,4252218.11,2019
+1438276,Customer 1438276,Small Business,C,Midwest,Agriculture,49168.78,2019
+6710020,Customer 6710020,Strategic Enterprise,A,West,Manufacturing,4587870.39,2019
+8853750,Customer 8853750,Service/Repair,C,Mexico,Government,281500.28,2020
+8738270,Customer 8738270,Contractor,B,Midwest,Utilities,1448474.56,2021
+4661126,Customer 4661126,Service/Repair,C,Midwest,Equipment Rental,336874.58,2021
+1324520,Customer 1324520,Regional Distributor,B,West,Manufacturing,588440.35,2024
+5923057,Customer 5923057,Contractor,B,West,Manufacturing,1200786.64,2017
+5658969,Customer 5658969,Strategic Enterprise,A,Midwest,Agriculture,3186714.69,2017
+9728106,Customer 9728106,Contractor,B,South,Manufacturing,1227527.19,2024
+7611165,Customer 7611165,Contractor,B,Midwest,Manufacturing,676849.15,2017
+3030225,Customer 3030225,Contractor,B,Canada,Agriculture,997465.33,2022
+4765394,Customer 4765394,Contractor,B,South,Construction,592586.75,2022
+7421144,Customer 7421144,Industrial OEM,A,South,Automotive,3896196.27,2017
+5105479,Customer 5105479,Contractor,B,Midwest,Utilities,532022.38,2024
+1515052,Customer 1515052,Contractor,B,South,Government,836264.62,2022
+8218375,Customer 8218375,Regional Distributor,B,Northeast,Government,524892.21,2024
+9821285,Customer 9821285,Contractor,B,Midwest,Utilities,740674.08,2020
+1763355,Customer 1763355,Industrial OEM,A,Midwest,Construction,5731369.94,2021
+1757009,Customer 1757009,Contractor,B,Midwest,Agriculture,780507.17,2024
+9382249,Customer 9382249,National Distributor,A,Midwest,Manufacturing,7993280.12,2018
+5993231,Customer 5993231,Strategic Enterprise,A,Northeast,Facilities,6022343.1,2024
+8551311,Customer 8551311,Service/Repair,C,Midwest,Utilities,326546.91,2020
+2737262,Customer 2737262,National Distributor,A,West,Agriculture,4611016.07,2025
+5563923,Customer 5563923,Regional Distributor,B,Northeast,Automotive,409623.95,2023
+8266780,Customer 8266780,Contractor,B,South,Equipment Rental,1052467.29,2021
+1397510,Customer 1397510,Contractor,B,West,Facilities,790615.62,2019
+9383904,Customer 9383904,Regional Distributor,B,Northeast,Utilities,885547.55,2023
+1042411,Customer 1042411,National Distributor,A,Canada,Utilities,3422006.07,2019
+2296464,Customer 2296464,Industrial OEM,A,West,Automotive,1971959.71,2024
+5126794,Customer 5126794,Industrial OEM,A,Midwest,Automotive,4479634.63,2019
+4518082,Customer 4518082,Industrial OEM,A,Midwest,Government,1511288.92,2019
+9411864,Customer 9411864,National Distributor,A,Canada,Automotive,2468324.62,2024
+7566658,Customer 7566658,Industrial OEM,A,Mexico,Agriculture,7610584.53,2017
+6596972,Customer 6596972,Service/Repair,C,Mexico,Automotive,124127.13,2021
+2680196,Customer 2680196,Contractor,B,Midwest,Manufacturing,271984.48,2022
+3192924,Customer 3192924,Industrial OEM,A,Midwest,Manufacturing,7676949.23,2023
+8686805,Customer 8686805,Strategic Enterprise,A,Midwest,Manufacturing,1383418.75,2025
+8868781,Customer 8868781,National Distributor,A,South,Government,5068729.16,2018
+8796954,Customer 8796954,Regional Distributor,B,South,Construction,1494957.83,2021
+9912523,Customer 9912523,National Distributor,A,Northeast,Utilities,2664000.63,2024
+9540930,Customer 9540930,Regional Distributor,B,Midwest,Utilities,632106.05,2020
+4823940,Customer 4823940,Industrial OEM,A,Midwest,Manufacturing,4467104.31,2019
+3216443,Customer 3216443,Regional Distributor,B,Midwest,Automotive,208054.39,2019
+2597507,Customer 2597507,Regional Distributor,B,South,Automotive,1123714.7,2025
+4533009,Customer 4533009,Regional Distributor,B,Canada,Manufacturing,1428304.59,2023
+5807450,Customer 5807450,Industrial OEM,A,Canada,Government,4576140.04,2018
+9170197,Customer 9170197,National Distributor,A,Northeast,Automotive,3193277.88,2017
+9072900,Customer 9072900,Industrial OEM,A,West,Equipment Rental,1946973.5,2021
+7403272,Customer 7403272,Regional Distributor,B,Midwest,Agriculture,1118651.37,2018
+4940826,Customer 4940826,Contractor,B,South,Government,1297037.22,2019
+7654749,Customer 7654749,Regional Distributor,B,West,Facilities,1099938.44,2021
+5886818,Customer 5886818,National Distributor,A,West,Automotive,2969206.22,2024
+6173778,Customer 6173778,Regional Distributor,B,West,Manufacturing,386005.57,2024
+7591542,Customer 7591542,Contractor,B,South,Utilities,758436.15,2020
+7202198,Customer 7202198,Contractor,B,Northeast,Agriculture,1396351.77,2017
+7576687,Customer 7576687,Strategic Enterprise,A,Midwest,Automotive,1706658.4,2020
+4759623,Customer 4759623,National Distributor,A,Northeast,Manufacturing,5137543.32,2021
+5542966,Customer 5542966,Regional Distributor,B,West,Facilities,562880.27,2023
+2206782,Customer 2206782,Contractor,B,West,Construction,850083.8,2022
+3549207,Customer 3549207,Contractor,B,South,Equipment Rental,511632.06,2020
+7077623,Customer 7077623,Regional Distributor,B,South,Equipment Rental,1227585.99,2020
+8688583,Customer 8688583,Service/Repair,C,Midwest,Utilities,283482.62,2021
+4523419,Customer 4523419,Contractor,B,South,Facilities,838939.99,2020
+9668657,Customer 9668657,Industrial OEM,A,Canada,Construction,5964918.08,2017
+7917406,Customer 7917406,Strategic Enterprise,A,Northeast,Automotive,4320912.31,2017
+8679974,Customer 8679974,Industrial OEM,A,Northeast,Government,2749907.28,2021
+9322129,Customer 9322129,Contractor,B,Midwest,Utilities,245967.99,2019
+3798528,Customer 3798528,Industrial OEM,A,Northeast,Manufacturing,7020045.49,2017
+9265371,Customer 9265371,Strategic Enterprise,A,Northeast,Manufacturing,4755405.43,2018
+1464889,Customer 1464889,Service/Repair,C,Northeast,Government,221880.92,2022
+9869647,Customer 9869647,Contractor,B,Canada,Facilities,321971.26,2020
+8978894,Customer 8978894,Small Business,C,West,Utilities,42971.63,2025
+5900223,Customer 5900223,National Distributor,A,West,Utilities,4866510.07,2025
+4850911,Customer 4850911,National Distributor,A,Canada,Automotive,2225034.74,2017
+2540764,Customer 2540764,National Distributor,A,South,Equipment Rental,6223269.1,2023
+4881426,Customer 4881426,Industrial OEM,A,Midwest,Construction,5894895.66,2019
+8056301,Customer 8056301,Contractor,B,Midwest,Construction,246077.91,2019
+9625470,Customer 9625470,National Distributor,A,Midwest,Government,3341240.25,2022
+4049603,Customer 4049603,Contractor,B,Midwest,Equipment Rental,495303.88,2023
+5411607,Customer 5411607,Contractor,B,West,Construction,382023.64,2024
+5976549,Customer 5976549,Industrial OEM,A,West,Equipment Rental,6481089.85,2021
+6857782,Customer 6857782,Contractor,B,Midwest,Automotive,178062.21,2022
+5871049,Customer 5871049,Regional Distributor,B,Midwest,Equipment Rental,866521.14,2023
+2335872,Customer 2335872,Strategic Enterprise,A,South,Construction,7693311.91,2023
+8874855,Customer 8874855,Regional Distributor,B,West,Facilities,840960.23,2021
+2817791,Customer 2817791,Small Business,C,West,Equipment Rental,286284.58,2023
+7865876,Customer 7865876,National Distributor,A,Midwest,Equipment Rental,3833238.82,2022
+5802158,Customer 5802158,Strategic Enterprise,A,Northeast,Government,5308616.86,2025
+9855862,Customer 9855862,Small Business,C,Midwest,Manufacturing,47833.82,2019
+8800997,Customer 8800997,Strategic Enterprise,A,South,Construction,6667054.42,2018
+6549501,Customer 6549501,Industrial OEM,A,West,Automotive,4302500.04,2019
+9129718,Customer 9129718,Strategic Enterprise,A,Midwest,Agriculture,4874599.29,2017
+2421222,Customer 2421222,Industrial OEM,A,West,Government,2810129.1,2021
+1917044,Customer 1917044,Service/Repair,C,West,Automotive,291998.85,2025
+5573504,Customer 5573504,Contractor,B,Midwest,Automotive,893801.96,2017
+1371034,Customer 1371034,Small Business,C,Canada,Government,42314.6,2024
+1125160,Customer 1125160,Small Business,C,Midwest,Utilities,188719.18,2022
+3203796,Customer 3203796,National Distributor,A,Midwest,Equipment Rental,4979827.99,2020
+1374969,Customer 1374969,Contractor,B,Canada,Facilities,1273631.06,2025
+8592011,Customer 8592011,Contractor,B,Midwest,Construction,1083598.1,2021
+9122954,Customer 9122954,Industrial OEM,A,West,Agriculture,2699452.9,2025
+9442197,Customer 9442197,Contractor,B,Midwest,Facilities,944840.56,2023
+9901820,Customer 9901820,Regional Distributor,B,Midwest,Utilities,373604.66,2018
+3419761,Customer 3419761,Contractor,B,Midwest,Manufacturing,185382.63,2023
+4765091,Customer 4765091,Regional Distributor,B,South,Agriculture,1385624.23,2021
+5614415,Customer 5614415,Contractor,B,South,Manufacturing,1176399.31,2019
+8536066,Customer 8536066,Regional Distributor,B,South,Government,1171296.42,2024
+3554991,Customer 3554991,Small Business,C,West,Equipment Rental,174551.46,2025
+7015814,Customer 7015814,Small Business,C,Northeast,Automotive,142522.56,2022
+3366752,Customer 3366752,Contractor,B,Midwest,Construction,1196564.89,2025
+9668103,Customer 9668103,Strategic Enterprise,A,South,Construction,3134688.6,2019
+3848122,Customer 3848122,Contractor,B,Northeast,Manufacturing,336441.4,2019
+9835993,Customer 9835993,Regional Distributor,B,Canada,Construction,652205.07,2017
+5033740,Customer 5033740,Small Business,C,Midwest,Automotive,33487.1,2019
+3599995,Customer 3599995,Small Business,C,Canada,Agriculture,145845.14,2021
+4980533,Customer 4980533,Contractor,B,Midwest,Utilities,1464446.5,2025
+1040500,Customer 1040500,Industrial OEM,A,Northeast,Government,2042844.77,2023
+7862239,Customer 7862239,Industrial OEM,A,Northeast,Equipment Rental,3290196.01,2024
+8604772,Customer 8604772,National Distributor,A,West,Manufacturing,7943267.23,2025
+9668207,Customer 9668207,Contractor,B,Midwest,Agriculture,1033669.45,2025
+7217006,Customer 7217006,Small Business,C,Mexico,Manufacturing,280836.38,2023
+5000173,Customer 5000173,Small Business,C,Northeast,Manufacturing,115167.61,2023
+8214373,Customer 8214373,Industrial OEM,A,Canada,Automotive,7972890.8,2017
+4703831,Customer 4703831,Industrial OEM,A,South,Agriculture,6993365.44,2023
+6669739,Customer 6669739,Contractor,B,South,Utilities,686590.01,2024
+6044182,Customer 6044182,Contractor,B,Northeast,Manufacturing,846235.74,2025
+5472196,Customer 5472196,National Distributor,A,Northeast,Construction,4018504.78,2025
+6413861,Customer 6413861,National Distributor,A,Northeast,Manufacturing,6413655.02,2017
+8353438,Customer 8353438,Contractor,B,West,Automotive,893524.5,2022
+8564931,Customer 8564931,Contractor,B,South,Agriculture,271574.3,2020
+9060571,Customer 9060571,National Distributor,A,Northeast,Equipment Rental,1340672.18,2023
+1388943,Customer 1388943,Regional Distributor,B,Midwest,Utilities,490538.56,2021
+1096544,Customer 1096544,Strategic Enterprise,A,West,Agriculture,1011415.93,2018
+1995223,Customer 1995223,Contractor,B,West,Government,1100044.44,2025
+3403065,Customer 3403065,Regional Distributor,B,West,Manufacturing,1041787.96,2018
+5232467,Customer 5232467,Contractor,B,South,Construction,1333065.3,2023
+5977800,Customer 5977800,Small Business,C,Midwest,Agriculture,181445.59,2022
+4246795,Customer 4246795,Contractor,B,West,Construction,1474704.04,2021
+7749680,Customer 7749680,Industrial OEM,A,Canada,Equipment Rental,5506308.68,2024
+8331715,Customer 8331715,Contractor,B,Midwest,Utilities,1470357.7,2018
+6293923,Customer 6293923,Regional Distributor,B,Northeast,Manufacturing,1396069.79,2020
+5154684,Customer 5154684,Contractor,B,Northeast,Government,444027.75,2017
+1689463,Customer 1689463,Small Business,C,Northeast,Facilities,126632.31,2021
+6714140,Customer 6714140,National Distributor,A,South,Agriculture,4126176.83,2022
+9565303,Customer 9565303,Contractor,B,Canada,Facilities,990848.8,2024
+1132139,Customer 1132139,National Distributor,A,Midwest,Agriculture,2910536.09,2021
+9380436,Customer 9380436,Contractor,B,Midwest,Agriculture,1081165.15,2025
+5999041,Customer 5999041,National Distributor,A,Midwest,Manufacturing,4316374.26,2022
+9280371,Customer 9280371,Small Business,C,Midwest,Facilities,298656.47,2021
+5018686,Customer 5018686,National Distributor,A,Midwest,Equipment Rental,3917125.78,2017
+5079476,Customer 5079476,Contractor,B,Midwest,Construction,1387184.88,2018
+5303224,Customer 5303224,Contractor,B,Northeast,Construction,609465.03,2023
+6710803,Customer 6710803,National Distributor,A,Northeast,Agriculture,1244410.54,2023
+3767730,Customer 3767730,National Distributor,A,Midwest,Manufacturing,1542861.72,2025
+3928060,Customer 3928060,Contractor,B,West,Construction,619625.39,2019
+3816930,Customer 3816930,Small Business,C,West,Utilities,259915.19,2024
+3694430,Customer 3694430,Regional Distributor,B,West,Equipment Rental,795966.14,2024
+2749415,Customer 2749415,Service/Repair,C,South,Equipment Rental,64183.39,2024
+3838298,Customer 3838298,National Distributor,A,South,Agriculture,2171500.89,2021
+1223401,Customer 1223401,Contractor,B,Canada,Manufacturing,411620.03,2020
+8054380,Customer 8054380,Industrial OEM,A,Midwest,Automotive,4127574.41,2025
+3590021,Customer 3590021,Strategic Enterprise,A,Northeast,Automotive,6629937.83,2023
+2881437,Customer 2881437,Regional Distributor,B,Canada,Utilities,469512.47,2020
+3717146,Customer 3717146,Contractor,B,Midwest,Government,1011758.95,2017
+1666258,Customer 1666258,Contractor,B,Northeast,Manufacturing,199183.13,2022
+7174404,Customer 7174404,Small Business,C,Midwest,Automotive,140155.76,2018
+7385809,Customer 7385809,Small Business,C,South,Utilities,41521.17,2025
+2026908,Customer 2026908,Industrial OEM,A,South,Facilities,7453750.34,2023
+5782540,Customer 5782540,Contractor,B,South,Agriculture,1107707.44,2019
+5583531,Customer 5583531,Strategic Enterprise,A,South,Utilities,1042406.82,2021
+5781964,Customer 5781964,Regional Distributor,B,West,Construction,1496825.6,2018
+8393040,Customer 8393040,Service/Repair,C,Canada,Automotive,65154.49,2018
+8652209,Customer 8652209,Industrial OEM,A,Midwest,Government,2919608.76,2019
+7508939,Customer 7508939,National Distributor,A,South,Manufacturing,6898544.68,2018
+8001393,Customer 8001393,Strategic Enterprise,A,South,Manufacturing,6703427.44,2023
+5342999,Customer 5342999,Industrial OEM,A,South,Automotive,4622536.71,2020
+2077513,Customer 2077513,Industrial OEM,A,Midwest,Facilities,2654614.75,2025
+3502537,Customer 3502537,Contractor,B,Midwest,Automotive,1100443.57,2019
+3711922,Customer 3711922,National Distributor,A,Northeast,Utilities,6507714.04,2017
+7767604,Customer 7767604,Contractor,B,West,Agriculture,1265839.61,2020
+7558764,Customer 7558764,National Distributor,A,Midwest,Construction,7152503.23,2023
+9801044,Customer 9801044,Regional Distributor,B,Northeast,Utilities,1035485.87,2023
+2583871,Customer 2583871,National Distributor,A,West,Equipment Rental,6639102.74,2018
+9860971,Customer 9860971,Industrial OEM,A,South,Facilities,1162823.08,2018
+2651697,Customer 2651697,Regional Distributor,B,West,Facilities,305615.54,2020
+3095588,Customer 3095588,Industrial OEM,A,South,Manufacturing,4033938.29,2019
+5295244,Customer 5295244,Industrial OEM,A,South,Automotive,2553304.52,2024
+9124710,Customer 9124710,National Distributor,A,South,Agriculture,5218650.87,2018
+8379324,Customer 8379324,National Distributor,A,West,Equipment Rental,3756843.29,2025
+6546433,Customer 6546433,Industrial OEM,A,Midwest,Agriculture,5843953.56,2025
+9824511,Customer 9824511,Small Business,C,West,Automotive,79362.53,2024
+2097212,Customer 2097212,Contractor,B,South,Facilities,314281.89,2021
+4960691,Customer 4960691,National Distributor,A,South,Manufacturing,3711750.51,2017
+7935087,Customer 7935087,Contractor,B,West,Equipment Rental,700698.2,2022
+6327344,Customer 6327344,Regional Distributor,B,Canada,Manufacturing,610826.98,2022
+6578973,Customer 6578973,Contractor,B,Northeast,Utilities,1000213.5,2019
+7603611,Customer 7603611,Contractor,B,Midwest,Agriculture,1127886.13,2021
+9346883,Customer 9346883,Small Business,C,Midwest,Manufacturing,195396.56,2021
+1545639,Customer 1545639,Contractor,B,West,Equipment Rental,1083028.22,2019
+9424605,Customer 9424605,Regional Distributor,B,Mexico,Government,469523.4,2021
+9978103,Customer 9978103,Regional Distributor,B,West,Manufacturing,364746.87,2022
+7095474,Customer 7095474,Regional Distributor,B,Midwest,Manufacturing,579638.25,2022
+5223772,Customer 5223772,Contractor,B,Midwest,Automotive,1328287.47,2020
+3667221,Customer 3667221,Industrial OEM,A,Midwest,Utilities,6683170.5,2023
+8088282,Customer 8088282,Regional Distributor,B,Midwest,Manufacturing,599287.25,2021
+7808443,Customer 7808443,Small Business,C,Midwest,Manufacturing,252244.04,2021
+4734950,Customer 4734950,Contractor,B,Midwest,Agriculture,786051.33,2022
+2124239,Customer 2124239,National Distributor,A,West,Automotive,6368030.64,2022
+7706257,Customer 7706257,Contractor,B,West,Utilities,693833.11,2022
+1381131,Customer 1381131,National Distributor,A,West,Automotive,2378765.19,2024
+7044305,Customer 7044305,Contractor,B,South,Utilities,1283911.03,2021
+4157780,Customer 4157780,Contractor,B,South,Government,584843.1,2021
+8282774,Customer 8282774,Strategic Enterprise,A,Canada,Construction,1324968.31,2019
+7836703,Customer 7836703,Small Business,C,Midwest,Manufacturing,99445.17,2018
+6991317,Customer 6991317,Regional Distributor,B,Northeast,Manufacturing,1498503.59,2024
+9598122,Customer 9598122,National Distributor,A,Mexico,Equipment Rental,2578664.21,2023
+5439440,Customer 5439440,Small Business,C,Midwest,Construction,218871.42,2021
+7348375,Customer 7348375,National Distributor,A,Midwest,Construction,3114358.82,2019
+9660925,Customer 9660925,Contractor,B,Northeast,Automotive,829289.18,2020
+6301168,Customer 6301168,Industrial OEM,A,South,Agriculture,7890198.08,2021
+8192605,Customer 8192605,Regional Distributor,B,West,Manufacturing,934824.27,2020
+7355185,Customer 7355185,Service/Repair,C,Northeast,Construction,329328.91,2024
+6913117,Customer 6913117,Industrial OEM,A,West,Agriculture,3405671.21,2017
+9255770,Customer 9255770,Contractor,B,West,Automotive,1313463.88,2024
+2628275,Customer 2628275,Strategic Enterprise,A,South,Agriculture,6778281.83,2024
+8377708,Customer 8377708,Industrial OEM,A,West,Agriculture,2202272.02,2020
+8586213,Customer 8586213,National Distributor,A,Canada,Facilities,5210272.75,2020
+9879002,Customer 9879002,Contractor,B,Northeast,Automotive,898302.48,2022
+9952274,Customer 9952274,Industrial OEM,A,Midwest,Construction,7416865.55,2025
+2596480,Customer 2596480,National Distributor,A,South,Manufacturing,7121539.19,2019
+6842125,Customer 6842125,Regional Distributor,B,Canada,Construction,909993.1,2023
+6098560,Customer 6098560,Regional Distributor,B,West,Facilities,802502.27,2023
+1291385,Customer 1291385,Contractor,B,Midwest,Agriculture,443397.93,2020
+8691471,Customer 8691471,Regional Distributor,B,South,Construction,557388.55,2021
+2666608,Customer 2666608,National Distributor,A,Northeast,Facilities,5541928.54,2019
+1332729,Customer 1332729,National Distributor,A,Northeast,Government,6015032.23,2025
+9195176,Customer 9195176,National Distributor,A,Midwest,Construction,2344799.57,2025
+8700963,Customer 8700963,Contractor,B,Northeast,Automotive,1059753.06,2018
+3121201,Customer 3121201,Strategic Enterprise,A,South,Equipment Rental,7264425.18,2018
+7459347,Customer 7459347,National Distributor,A,West,Government,7162484.17,2019
+3870534,Customer 3870534,Contractor,B,South,Agriculture,382413.14,2019
+7490495,Customer 7490495,National Distributor,A,Midwest,Utilities,1364621.42,2023
+5903757,Customer 5903757,Industrial OEM,A,Midwest,Construction,7738856.97,2022
+5837638,Customer 5837638,Regional Distributor,B,Midwest,Utilities,315609.18,2020
+8156435,Customer 8156435,National Distributor,A,Midwest,Automotive,4363596.0,2017
+6738084,Customer 6738084,National Distributor,A,Midwest,Construction,6601739.11,2019
+8531527,Customer 8531527,Contractor,B,South,Utilities,295380.32,2022
+1049256,Customer 1049256,National Distributor,A,Northeast,Automotive,3141600.98,2024
+7852695,Customer 7852695,Industrial OEM,A,Midwest,Government,1720573.33,2022
+8674899,Customer 8674899,Regional Distributor,B,West,Construction,1332352.45,2020
+2556875,Customer 2556875,Industrial OEM,A,Midwest,Utilities,5555592.73,2024
+9958775,Customer 9958775,Regional Distributor,B,Midwest,Facilities,1324306.56,2018
+4277467,Customer 4277467,Service/Repair,C,Canada,Utilities,146018.89,2025
+6407314,Customer 6407314,Contractor,B,West,Equipment Rental,1137381.78,2019
+1741783,Customer 1741783,Service/Repair,C,Northeast,Agriculture,279037.43,2022
+8319486,Customer 8319486,Regional Distributor,B,South,Automotive,755282.97,2020
+5267272,Customer 5267272,Contractor,B,South,Government,475903.59,2024
+9732964,Customer 9732964,Contractor,B,South,Construction,602852.0,2020
+2023497,Customer 2023497,Service/Repair,C,Northeast,Government,160387.11,2025
+9760150,Customer 9760150,Regional Distributor,B,South,Agriculture,684679.58,2017
+2532489,Customer 2532489,Industrial OEM,A,Northeast,Facilities,1605389.37,2020
+4572403,Customer 4572403,National Distributor,A,Midwest,Construction,5215923.99,2018
+5574582,Customer 5574582,Contractor,B,West,Agriculture,367115.59,2019
+2209288,Customer 2209288,Contractor,B,West,Equipment Rental,524125.92,2023
+2396827,Customer 2396827,Small Business,C,South,Construction,258725.14,2023
+1522957,Customer 1522957,Contractor,B,Midwest,Government,1166763.33,2022
+7217516,Customer 7217516,Small Business,C,Canada,Government,140032.21,2019
+7275955,Customer 7275955,Contractor,B,Midwest,Equipment Rental,1365250.96,2020
+1490472,Customer 1490472,Industrial OEM,A,West,Facilities,6797575.19,2021
+2274310,Customer 2274310,Strategic Enterprise,A,South,Facilities,5551485.92,2023
+4132230,Customer 4132230,National Distributor,A,West,Government,2533816.72,2025
+2382452,Customer 2382452,Regional Distributor,B,West,Manufacturing,407527.29,2019
+4320732,Customer 4320732,Contractor,B,Northeast,Facilities,776010.26,2022
+3196674,Customer 3196674,Regional Distributor,B,Northeast,Utilities,205128.06,2019
+1648500,Customer 1648500,Regional Distributor,B,Midwest,Manufacturing,1134623.1,2018
+8651646,Customer 8651646,Regional Distributor,B,West,Manufacturing,1195848.5,2022
+3742185,Customer 3742185,Contractor,B,South,Manufacturing,1445922.27,2017
+7968328,Customer 7968328,Regional Distributor,B,South,Agriculture,158221.88,2018
+7777396,Customer 7777396,Service/Repair,C,West,Government,137911.96,2017
+7931853,Customer 7931853,Contractor,B,South,Utilities,273994.82,2021
+8526418,Customer 8526418,Service/Repair,C,Midwest,Manufacturing,290171.6,2017
+7502784,Customer 7502784,Service/Repair,C,Midwest,Government,197341.55,2022
+7549192,Customer 7549192,Strategic Enterprise,A,South,Utilities,6232541.21,2022
+3213093,Customer 3213093,National Distributor,A,West,Automotive,2343458.96,2022
+4671427,Customer 4671427,National Distributor,A,West,Construction,1386415.63,2021
+3829915,Customer 3829915,Industrial OEM,A,Midwest,Manufacturing,5427998.54,2024
+8428043,Customer 8428043,Contractor,B,Midwest,Manufacturing,758782.03,2022
+2306094,Customer 2306094,Strategic Enterprise,A,Midwest,Facilities,3452569.66,2019
+7874738,Customer 7874738,Small Business,C,Midwest,Facilities,123161.65,2025
+2228633,Customer 2228633,Regional Distributor,B,Northeast,Government,488187.2,2019
+5447054,Customer 5447054,Strategic Enterprise,A,Midwest,Agriculture,2198434.6,2021
+8659685,Customer 8659685,Small Business,C,Northeast,Government,279369.05,2018
+7630011,Customer 7630011,National Distributor,A,South,Automotive,4276597.67,2018
+5725590,Customer 5725590,National Distributor,A,Midwest,Facilities,2019078.84,2019
+4983860,Customer 4983860,Industrial OEM,A,West,Manufacturing,2971903.72,2018
+6059520,Customer 6059520,Service/Repair,C,West,Manufacturing,191208.7,2024
+8614645,Customer 8614645,Small Business,C,West,Agriculture,141898.77,2023
+7382287,Customer 7382287,Service/Repair,C,South,Construction,201711.68,2022
+3593987,Customer 3593987,Service/Repair,C,South,Agriculture,114994.26,2025
+5527958,Customer 5527958,Regional Distributor,B,Midwest,Construction,1336655.24,2022
+7636901,Customer 7636901,Contractor,B,Midwest,Agriculture,641193.15,2019
+3102839,Customer 3102839,Service/Repair,C,Midwest,Manufacturing,84053.56,2022
+9655495,Customer 9655495,National Distributor,A,Midwest,Facilities,4508632.33,2017
+2281615,Customer 2281615,Service/Repair,C,West,Manufacturing,250419.95,2021
+3658034,Customer 3658034,Regional Distributor,B,West,Utilities,1433294.32,2017
+6356848,Customer 6356848,Industrial OEM,A,South,Agriculture,3987108.6,2022
+9650994,Customer 9650994,Contractor,B,South,Construction,708524.26,2021
+3829734,Customer 3829734,Industrial OEM,A,Midwest,Utilities,7280985.67,2020

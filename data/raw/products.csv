@@ -1,0 +1,51 @@
+product_id,product_name,product_category,product_family,manufacturing_city,size,color,sku,standard_cost,list_price,product_status
+462163,Cordless Drill 01,Power Tools,Cordless Drill,"Cedar Rapids, IA",Heavy Duty,Gray,SKU462163,140.77,299.19,Active
+561886,Angle Grinder 02,Power Tools,Angle Grinder,"Racine, WI",Heavy Duty,Yellow,SKU561886,157.5,224.77,Active
+505333,Gear Set 03,Replacement Parts,Gear Set,"Peoria, IL",Standard,Yellow,SKU505333,238.73,432.91,Active
+180321,Seal Kit 04,Replacement Parts,Seal Kit,"Cedar Rapids, IA",Heavy Duty,Black,SKU180321,127.59,216.34,Active
+800544,Filter Kit 05,Replacement Parts,Filter Kit,"Kenosha, WI",Standard,Black,SKU800544,92.54,155.72,Seasonal
+973623,Seal Kit 06,Replacement Parts,Seal Kit,"Peoria, IL",Standard,Red,SKU973623,226.99,325.22,Active
+679462,Gear Pump 07,Industrial Pumps,Gear Pump,"Greenville, SC",Compact,Red,SKU679462,139.71,227.38,Seasonal
+730465,Air Dryer 08,Compressors,Air Dryer,"Greenville, SC",Compact,Black,SKU730465,93.02,183.83,Active
+349080,Cordless Drill 09,Power Tools,Cordless Drill,"Racine, WI",Standard,Yellow,SKU349080,235.64,425.9,Active
+501116,Reciprocating Saw 10,Power Tools,Reciprocating Saw,"Peoria, IL",Standard,Silver,SKU501116,137.41,233.75,Active
+419070,Seal Kit 11,Replacement Parts,Seal Kit,"Greenville, SC",Heavy Duty,Black,SKU419070,162.36,291.16,Active
+710125,Centrifugal Pump 12,Industrial Pumps,Centrifugal Pump,"Peoria, IL",Standard,Black,SKU710125,216.03,417.28,Discontinued
+489693,Air Receiver 13,Compressors,Air Receiver,"Greenville, SC",Compact,Blue,SKU489693,83.32,114.98,Active
+161127,Drive Belt 14,Replacement Parts,Drive Belt,"Cedar Rapids, IA",Standard,Red,SKU161127,310.44,497.85,Active
+807430,Gear Set 15,Replacement Parts,Gear Set,"Kenosha, WI",Standard,Blue,SKU807430,175.29,367.91,Active
+573810,Rotary Compressor 16,Compressors,Rotary Compressor,"Racine, WI",Compact,Red,SKU573810,78.44,161.84,Active
+550301,Air Receiver 17,Compressors,Air Receiver,"Greenville, SC",Heavy Duty,Red,SKU550301,216.75,347.39,Active
+782272,Hydraulic Motor 18,Hydraulic Components,Hydraulic Motor,"Racine, WI",Standard,Gray,SKU782272,237.85,463.2,Active
+281314,Impact Wrench 19,Power Tools,Impact Wrench,"Peoria, IL",XL,Silver,SKU281314,526.4,1060.64,Discontinued
+855746,Centrifugal Pump 20,Industrial Pumps,Centrifugal Pump,"Kenosha, WI",Compact,Gray,SKU855746,87.65,140.09,Discontinued
+599116,Angle Grinder 21,Power Tools,Angle Grinder,"Kenosha, WI",XL,Gray,SKU599116,161.86,220.31,Active
+840466,Diaphragm Pump 22,Industrial Pumps,Diaphragm Pump,"Cedar Rapids, IA",Compact,Black,SKU840466,47.48,83.33,Discontinued
+248704,Fork Assembly 23,Material Handling,Fork Assembly,"Peoria, IL",Standard,Gray,SKU248704,144.86,278.47,Active
+727601,Angle Grinder 24,Power Tools,Angle Grinder,"Milwaukee, WI",Compact,Gray,SKU727601,247.27,412.47,Discontinued
+899086,Impact Wrench 25,Power Tools,Impact Wrench,"Kenosha, WI",Standard,Blue,SKU899086,429.35,678.01,Discontinued
+903806,Filter Assembly 26,Hydraulic Components,Filter Assembly,"Kenosha, WI",Compact,Blue,SKU903806,201.89,289.66,Seasonal
+494969,Hydraulic Pump 27,Hydraulic Components,Hydraulic Pump,"Greenville, SC",Standard,Black,SKU494969,609.66,1278.11,Seasonal
+182920,Gear Set 28,Replacement Parts,Gear Set,"Cedar Rapids, IA",Standard,Blue,SKU182920,220.99,317.63,Active
+872699,Compressor Service Kit 29,Compressors,Compressor Service Kit,"Peoria, IL",Heavy Duty,Gray,SKU872699,161.94,297.13,Discontinued
+934063,Gear Set 30,Replacement Parts,Gear Set,"Racine, WI",Standard,Red,SKU934063,101.8,190.52,Discontinued
+668491,Gear Set 31,Replacement Parts,Gear Set,"Peoria, IL",Standard,Blue,SKU668491,77.96,151.76,Discontinued
+689082,Metering Pump 32,Industrial Pumps,Metering Pump,"Milwaukee, WI",Compact,Silver,SKU689082,141.68,207.84,Active
+762149,Drive Wheel 33,Material Handling,Drive Wheel,"Milwaukee, WI",Standard,Silver,SKU762149,298.34,442.26,Active
+505404,Impact Wrench 34,Power Tools,Impact Wrench,"Milwaukee, WI",Compact,Gray,SKU505404,154.18,214.98,Active
+978022,Cordless Drill 35,Power Tools,Cordless Drill,"Kenosha, WI",Compact,Gray,SKU978022,347.66,578.82,Discontinued
+745703,Impact Wrench 36,Power Tools,Impact Wrench,"Greenville, SC",Standard,Yellow,SKU745703,112.61,155.94,Active
+157434,Seal Kit 37,Replacement Parts,Seal Kit,"Peoria, IL",Standard,Red,SKU157434,500.51,842.37,Active
+784997,Centrifugal Pump 38,Industrial Pumps,Centrifugal Pump,"Kenosha, WI",Standard,Silver,SKU784997,87.35,176.16,Active
+499063,Cordless Drill 39,Power Tools,Cordless Drill,"Milwaukee, WI",Heavy Duty,Yellow,SKU499063,328.91,681.55,Active
+872450,Metering Pump 40,Industrial Pumps,Metering Pump,"Cedar Rapids, IA",Heavy Duty,Blue,SKU872450,186.24,367.5,Seasonal
+590874,Cordless Drill 41,Power Tools,Cordless Drill,"Kenosha, WI",Standard,Red,SKU590874,468.45,805.84,Seasonal
+304510,Bearing Assembly 42,Replacement Parts,Bearing Assembly,"Peoria, IL",Standard,Red,SKU304510,141.35,244.85,Active
+177347,Gear Pump 43,Industrial Pumps,Gear Pump,"Racine, WI",Standard,Gray,SKU177347,315.59,508.73,Active
+803390,Control Valve 44,Hydraulic Components,Control Valve,"Peoria, IL",Heavy Duty,Red,SKU803390,419.05,872.91,Discontinued
+796522,Cylinder 45,Hydraulic Components,Cylinder,"Kenosha, WI",Standard,Gray,SKU796522,559.2,1046.87,Active
+264289,Gear Set 46,Replacement Parts,Gear Set,"Kenosha, WI",Standard,Yellow,SKU264289,114.39,221.68,Active
+433707,Control Valve 47,Hydraulic Components,Control Valve,"Greenville, SC",Heavy Duty,Blue,SKU433707,188.43,346.99,Seasonal
+215298,Cordless Drill 48,Power Tools,Cordless Drill,"Milwaukee, WI",Heavy Duty,Blue,SKU215298,64.79,94.59,Discontinued
+184755,Rotary Hammer 49,Power Tools,Rotary Hammer,"Kenosha, WI",Heavy Duty,Gray,SKU184755,272.42,541.06,Discontinued
+844857,Utility Mower 50,Outdoor Equipment,Utility Mower,"Kenosha, WI",Standard,Yellow,SKU844857,116.36,214.45,Active
