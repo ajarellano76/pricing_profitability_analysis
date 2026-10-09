@@ -155,18 +155,54 @@ This project currently demonstrates:
 - Data validation and outlier analysis
 
 
+### 04 — Customer Profitability Analysis
+
+**Business Question:** Which customers and customer segments generate the greatest revenue and gross profit, and which accounts warrant further pricing review?
+
+**Objective:** Evaluate customer profitability, purchasing behavior, price realization, and estimated annual sales potential to identify differences in financial performance and opportunities for further investigation.
+
+**Analytical Methods:**
+- Customer-level revenue, gross profit, and weighted gross margin calculations.
+- Average order value and order frequency analysis.
+- Annual revenue comparison against estimated customer sales potential.
+- Customer segment profitability and price realization benchmarking.
+- Common Table Expressions (CTEs) and `CROSS JOIN` to dynamically compare customer performance against company-wide benchmarks.
+- Customer screening based on cumulative revenue, gross margin, and price realization.
+
+**Key Findings:**
+- Company-wide gross margin averaged **35.93%**, with **89.59% price realization** across 2023–2025.
+- The Contractor segment generated the highest revenue at approximately **$10.26 million**.
+- Small Business customers achieved the highest segment gross margin (**38.86%**) and price realization (**93.91%**).
+- Strategic Enterprise customers recorded the lowest gross margin (**32.82%**) and price realization (**84.78%**).
+- Customer-level screening identified higher-revenue accounts falling below both company-wide benchmarks, providing a targeted starting point for reviewing pricing, product mix, and costs.
+
+**Business Implications:**
+
+Revenue alone does not determine customer profitability. Differences in gross margin and price realization suggest that customer segmentation and account-level performance should be considered when evaluating pricing strategies.
+
+Accounts identified through the screening process are candidates for further analysis rather than automatic price increases.
+
+**Limitations:** This project uses synthetic data. Annual sales potential is treated as constant across 2023–2025, and the screening thresholds are exploratory rather than established company policies.
+
+**SQL Script:** `sql/04_customer_profitability_analysis.sql`
+
+
 ## Repository Structure
 
 ```text
 pricing_profitability_analysis/
-│
 ├── README.md
-│
-├── sql/
-│   ├── 01_product_pricing_analysis.sql
-│   ├── 02_price_waterfall_validation.sql
-│   └── 03_price_waterfall_outlier_analysis.sql
-│
 ├── data/
+│   ├── README.md
+│   └── raw/
+│       └── [synthetic CSV datasets]
 ├── documentation/
-└── power_bi/
+│   ├── [data dictionary]
+│   └── [database schema]
+└── sql/
+    ├── 01_product_pricing_analysis.sql
+    ├── 02_price_waterfall_validation.sql
+    ├── 03_price_waterfall_outlier_analysis.sql
+    └── 04_customer_profitability_analysis.sql
+```
+
