@@ -186,23 +186,76 @@ Accounts identified through the screening process are candidates for further ana
 
 **SQL Script:** `sql/04_customer_profitability_analysis.sql`
 
+### 05 — Cost & Margin Trend Analysis
+
+**SQL File:** [05_cost_margin_trend_analysis.sql](sql/05_cost_margin_trend_analysis.sql)
+
+**Objective:** Evaluate manufacturing cost inflation and gross margin performance between 2023 and 2025 to identify products and categories that may warrant further pricing investigation.
+
+**Analysis Performed:**
+- Annual manufacturing unit cost trends
+- Year-over-year manufacturing cost inflation
+- Product-level manufacturing cost increases
+- Annual revenue, cost, and gross margin trends
+- Gross margin performance by product category
+- Category-level margin deterioration rankings
+
+**Key Findings:**
+
+| Metric | 2023 | 2025 | Change |
+|---|---:|---:|---:|
+| Average manufacturing unit cost | $218.48 | $242.86 | +11.16% |
+| Total revenue | $13.02M | $13.06M | +0.30% |
+| Recorded total costs | $8.18M | $8.57M | +4.84% |
+| Gross profit | $4.85M | $4.49M | −7.36% |
+| Gross margin | 37.23% | 34.39% | −2.84 percentage points |
+
+**Category-Level Findings:**
+
+- **Compressors:** Largest gross margin deterioration, declining 3.56 percentage points.
+- **Power Tools:** Gross margin declined 3.37 percentage points, with approximately $4.76 million in 2025 revenue.
+- **Replacement Parts:** Gross margin declined 2.82 percentage points.
+- **Hydraulic Components:** Smallest deterioration, declining 1.80 percentage points.
+
+**Business Implications:**
+
+All seven product categories experienced gross margin deterioration between 2023 and 2025. Power Tools represents a potential priority for pricing review because of its combination of substantial revenue and declining profitability.
+
+Further analysis of realized selling prices, discounts, and product mix is necessary to determine the drivers of margin compression.
+
+**Methodology:** Manufacturing cost trends use unweighted monthly product-level cost observations. Gross margin trends use recorded order-level financial results and revenue-weighted margin calculations. These measures are related but are not directly interchangeable, and the observed trends do not establish causation.
+
+**SQL Techniques:** Common Table Expressions (CTEs), `LAG()`, conditional aggregation, `CASE WHEN`, `JOIN`, `GROUP BY`, `NULLIF()`, and percentage-point calculations.
 
 ## Repository Structure
 
 ```text
+## Repository Structure
+
+```text
 pricing_profitability_analysis/
+│
 ├── README.md
+│
 ├── data/
 │   ├── README.md
 │   └── raw/
-│       └── [synthetic CSV datasets]
+│       └── [Synthetic CSV datasets]
+│
 ├── documentation/
-│   ├── [data dictionary]
-│   └── [database schema]
-└── sql/
-    ├── 01_product_pricing_analysis.sql
-    ├── 02_price_waterfall_validation.sql
-    ├── 03_price_waterfall_outlier_analysis.sql
-    └── 04_customer_profitability_analysis.sql
+│   ├── data_dictionary
+│   └── database_schema
+│
+├── sql/
+│   ├── 01_product_pricing_analysis.sql
+│   ├── 02_price_waterfall_validation.sql
+│   ├── 03_price_waterfall_outlier_analysis.sql
+│   ├── 04_customer_profitability_analysis.sql
+│   └── 05_cost_margin_trend_analysis.sql
+│
+└── dashboards/                    # Planned
+    └── Power BI dashboard         # In development
+
+*Note: The datasets used in this project are synthetic and intended for educational and portfolio demonstration purposes.*
 ```
 
