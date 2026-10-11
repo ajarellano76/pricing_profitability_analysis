@@ -99,19 +99,6 @@ Product 689082 experienced 12.36% manufacturing cost growth compared with 3.65% 
 - Investigate competitor pricing and identify products with potential pricing improvement opportunities.
 - Develop recommendations supported by transaction-level profitability and pricing performance.
 
-pricing_profitability_analysis/
-├── README.md
-├── Simplified_README.md
-├── data/
-├── documentation/
-└── sql/
-    ├── 01_product_pricing_analysis.sql
-    ├── 02_price_waterfall_validation.sql
-    ├── 03_price_waterfall_outlier_analysis.sql
-    ├── 04_customer_profitability_analysis.sql
-    ├── 05_cost_margin_trend_analysis.sql
-    └── 06_price_trend_analysis.sql
-
 ---
 
 *This project uses synthetic data created for educational and portfolio purposes. Average selling price includes freight revenue. Manufacturing cost trends use unweighted monthly product-level averages, while gross margin calculations use recorded transaction-level financial results. Findings identify potential areas for investigation rather than proven causes of margin changes.*
