@@ -92,6 +92,20 @@ Product 689082 experienced 12.36% manufacturing cost growth compared with 3.65% 
 
 **Recommendation:** Use product-level price-cost growth gaps to prioritize further profitability reviews rather than automatically increasing prices.
 
+## Power BI Dashboard
+
+Transformed the SQL pricing and profitability analysis into an interactive, three-page Power BI dashboard.
+
+The dashboard currently includes:
+
+- **Executive Overview:** Revenue, gross profit, gross margin, price realization, and annual profitability trends.
+- **Product Category Performance:** Revenue and gross margin comparisons across product categories, with year-based filtering.
+- **Customer Profitability:** Customer segmentation, account-level profitability, and pricing review candidates identified through revenue, margin, and price realization thresholds.
+
+**[Explore the Power BI Dashboard](power_bi/README.md)**
+
+The dashboard includes screenshots for quick review and a downloadable `.pbix` file for interactive exploration.
+
 ## Next Steps
 
 - Develop an interactive Power BI dashboard to monitor revenue, gross margins, price realization, and pricing trends.
