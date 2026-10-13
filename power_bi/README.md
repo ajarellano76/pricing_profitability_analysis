@@ -52,6 +52,27 @@ A customer-level pricing review screen flags accounts meeting three criteria:
 
 Flagged accounts represent candidates for further investigation, not automatic price increase recommendations.
 
+## 4. Revenue & Margin Bridge
+
+![Revenue & Margin Bridge](screenshots/04_revenue_margin_bridge.png)
+
+**Business Question:** How do discounts, promotions, rebates, freight, and product costs affect revenue realization and overall profitability?
+
+**Key Findings:**
+- Gross sales totaled approximately $43.91 million, generating $39.34 million in net revenue and $14.13 million in gross profit across 2023–2025.
+- Discounts reduced gross sales by approximately $4.22 million, representing a 9.62% discount rate.
+- Sequential promotions and rebates further reduced revenue by approximately $382,576 and $150,312, respectively.
+- Net price realization was 89.59%, indicating that approximately 89.6 cents of every gross sales dollar was retained as product revenue after pricing adjustments.
+- Total costs of $25.20 million resulted in an overall gross margin of 35.93%.
+
+An interactive revenue-to-gross-profit waterfall visualizes the cumulative financial impact of pricing adjustments and product costs.
+
+The dashboard includes dynamic KPI cards for net revenue, gross profit, gross margin, discount rate, and net price realization. Users can filter results by year, product category, and customer segment to investigate differences in pricing performance.
+
+Sequential pricing calculations and revenue reconciliation measures were implemented in DAX to validate the financial bridge. A residual reconciliation adjustment of $19.20 was identified and retained transparently.
+
+This analysis provides a foundation for evaluating pricing effectiveness, identifying margin pressure, and prioritizing opportunities for further investigation.
+
 ## Tools & Techniques
 
 **Power BI:** Data modeling, DAX measures, KPI cards, interactive filtering, conditional formatting, and profitability dashboards.
