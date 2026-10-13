@@ -8,7 +8,7 @@ Using MySQL, I analyzed revenue performance, gross margins, price realization, c
 
 ## Business Questions:
 
-1. **Product Profitability:** Which products generate the most revenue and gross profit, and how effectively do they convert list-price value into realized revenue?
+1. **Product Profitability:** Which products contribute the most and least to total revenue and gross profit, and how does their price realization compare?
 
 2. **Pricing Waterfall:** How do discounts, promotions, rebates, and freight charges affect realized revenue, and can the underlying pricing waterfall ACCURATELY reconstruct recorded transaction revenue?
 
@@ -41,7 +41,9 @@ Using MySQL, I analyzed revenue performance, gross margins, price realization, c
 
 **SQL File:** [01_product_pricing_analysis.sql](sql/01_product_pricing_analysis.sql)
 
-1. <u><strong>Business Question:</strong></u> Which products generate the most revenue and gross profit, and how effectively do they convert list-price value into realized revenue?
+![Product Category Performance](power_bi/screenshots/02_product_category_performance.png)
+
+1. <u><strong>Business Question:</strong></u> Which products contribute the most and least to total revenue and gross profit, and how does their price realization compare?
 
 Analyzes product-level commercial performance using metrics including:
 
@@ -59,13 +61,18 @@ Analyzes product-level commercial performance using metrics including:
 The analysis also validates stored gross profit against independently calculated 
 gross profit to test data consistency.
 
-**Key finding:** Product-level gross profit reconciled to independently calculated 
-gross profit with no discrepancies exceeding $1.00.
+**Key Findings:**
+- Power Tools generated approximately $4.76 million in revenue in 2025.
+- Compressors recorded the lowest category gross margin in 2025 at 29.08%.
+- Hydraulic Components recorded the highest category gross margin in 2025 at 39.78%.
 
+Category comparisons help identify where pricing and cost analysis may warrant additional attention.
 
 ### 02 — Price Waterfall Validation
 
 **SQL File:** [02_price_waterfall_validation.sql](sql/02_price_waterfall_validation.sql)
+
+![Revenue & Margin Bridge](power_bi/screenshots/05_revenue_margin_bridge.png)
 
 2. <u><strong>Business Question:</strong></u> How do discounts, promotions, rebates, and freight charges affect realized revenue, and can the underlying pricing waterfall accurately reconstruct recorded transaction revenue?
 
@@ -80,8 +87,20 @@ The reconstructed calculation is:
 
 `List Value × (1 − Discount) × (1 − Promotion) × (1 − Rebate) + Freight`
 
-This analysis establishes the pricing logic used for subsequent revenue 
-reconciliation.
+**Key Findings:**
+- Gross sales totaled approximately $43.91 million, generating $39.34 million in net revenue and $14.13 million in gross profit across 2023–2025.
+- Discounts reduced gross sales by approximately $4.22 million, representing a 9.62% discount rate.
+- Sequential promotions and rebates further reduced revenue by approximately $382,576 and $150,312, respectively.
+- Net price realization was 89.59%, indicating that approximately 89.6 cents of every gross sales dollar was retained as product revenue after pricing adjustments.
+- Total costs of $25.20 million resulted in an overall gross margin of 35.93%.
+
+An interactive revenue-to-gross-profit waterfall visualizes the cumulative financial impact of pricing adjustments and product costs.
+
+The dashboard includes dynamic KPI cards for net revenue, gross profit, gross margin, discount rate, and net price realization. Users can filter results by year, product category, and customer segment to investigate differences in pricing performance.
+
+Sequential pricing calculations and revenue reconciliation measures were implemented in DAX (PowerBI) to validate the financial bridge. A residual reconciliation adjustment of $19.20 was identified and retained transparently.
+
+This analysis provides a foundation for evaluating pricing effectiveness, identifying margin pressure, and prioritizing opportunities for further investigation.
 
 ### 03 — Price Waterfall Outlier Analysis
 
@@ -118,7 +137,7 @@ complexity and reconciliation variance.
 
 **SQL File:** [04_customer_profitability_analysis.sql](sql/04_customer_profitability_analysis.sql)
 
-![Customer Profitability](screenshots/03_customer_profitability.png)
+![Customer Profitability](power_bi/screenshots/03_customer_profitability.png)
 
 4. **Business Question:** Which customers and segments generate the strongest margins, and which accounts perform below company-wide benchmarks?
 
