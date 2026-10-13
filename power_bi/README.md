@@ -54,7 +54,7 @@ Flagged accounts represent candidates for further investigation, not automatic p
 
 ## 4. Revenue & Margin Bridge
 
-![Revenue and Margin Bridge](screenshots/revenue_margin_bridge.png)
+![Revenue & Margin Bridge](screenshots/05_revenue_margin_bridge.png)
 
 **Business Question:** How do discounts, promotions, rebates, freight, and product costs affect revenue realization and overall profitability?
 
