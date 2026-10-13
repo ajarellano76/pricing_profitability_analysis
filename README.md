@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Evaluating <u>pricing effectiveness<u>, <u>revenue performance<u>, and <u>profitability<u> across a B2B company's sales operations, analyzing **10,000 transactions, 750 customers, and 50 products** from 2023 through 2025 using a synthetic dataset.
+Evaluating <u>pricing effectiveness</u>, <u>revenue performance</u>, and <u>profitability</u> across a B2B company's sales operations, analyzing **10,000 transactions, 750 customers, and 50 products** from 2023 through 2025 using a synthetic dataset.
 
 Using MySQL, I analyzed revenue performance, gross margins, price realization, customer profitability, manufacturing cost trends, and product-level pricing pressure.
 
