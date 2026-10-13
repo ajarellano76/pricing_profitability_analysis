@@ -1,9 +1,8 @@
 # Pricing & Profitability Analysis
-Pricing and profitability analysis using MySQL and Microsoft Power BI to evaluate revenue, margins, price realization, and pricing performance.
 
 ## Executive Summary
 
-This project evaluates pricing effectiveness and profitability across a synthetic B2B sales dataset containing **10,000 transactions, 750 customers, and 50 products** from 2023 through 2025.
+Evaluating <u>pricing effectiveness<u>, <u>revenue performance<u>, and <u>profitability<u> across a B2B company's sales operations, analyzing **10,000 transactions, 750 customers, and 50 products** from 2023 through 2025 using a synthetic dataset.
 
 Using MySQL, I analyzed revenue performance, gross margins, price realization, customer profitability, manufacturing cost trends, and product-level pricing pressure.
 
