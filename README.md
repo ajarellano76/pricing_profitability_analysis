@@ -1,58 +1,24 @@
 # Pricing & Profitability Analysis
 
-## Executive Summary
+## Executive Summary:
 
 Evaluating <u>pricing effectiveness</u>, <u>revenue performance</u>, and <u>profitability</u> across a B2B company's sales operations, analyzing **10,000 transactions, 750 customers, and 50 products** from 2023 through 2025 using a synthetic dataset.
 
 Using MySQL, I analyzed revenue performance, gross margins, price realization, customer profitability, manufacturing cost trends, and product-level pricing pressure.
 
-### Key Business Findings
-
-| Performance Metric | 2023 | 2025 | Change |
-|---|---:|---:|---:|
-| Total revenue | $13.02M | $13.06M | +0.30% |
-| Average selling price | $362.82 | $374.73 | +3.28% |
-| Average manufacturing unit cost | $218.48 | $242.86 | +11.16% |
-| Gross profit | $4.85M | $4.49M | −7.36% |
-| Gross margin | 37.23% | 34.39% | −2.84 pp |
-
-### Key Insights
-
-**1. Profitability declined despite higher average selling prices.**
-
-Gross margin fell by 2.84 percentage points between 2023 and 2025, while average selling price increased by 3.28%. Manufacturing unit costs also increased, highlighting the importance of investigating pricing, cost, and product-mix changes together.
-
-**2. High-revenue categories warrant closer pricing review.**
-
-Power Tools generated approximately $4.76 million in 2025 revenue but experienced a 3.37-percentage-point decline in gross margin between 2023 and 2025. Compressors experienced the largest category margin decline at 3.56 percentage points.
-
-**3. Customer profitability varies significantly by segment.**
-
-Strategic Enterprise customers recorded a 32.82% gross margin and 84.78% price realization across the analysis period, both below company-wide benchmarks of 35.93% and 89.59%, respectively.
-
-**4. Product-level analysis identified potential pricing pressure.**
-
-Product 689082 experienced 3.65% average selling price growth compared with 12.36% manufacturing cost growth, producing a negative price-cost growth gap of 8.71 percentage points.
-
-### Business Recommendations
-
-The findings support prioritizing pricing and profitability reviews for high-revenue categories with declining margins, customer segments performing below company-wide benchmarks, and products where manufacturing cost growth exceeds realized selling price growth.
-
-Before recommending specific price changes, further analysis should evaluate transaction-level profitability, discounting, product mix, customer demand, and competitive positioning.
-
-**Methodology note:** Average selling price includes freight revenue and may be affected by sales mix. Manufacturing unit cost trends use unweighted monthly product-level averages, while gross margin calculations use recorded order-level financial results. These comparisons identify areas for investigation rather than establishing direct causation.
-
-## Business Questions
-
-This project investigates six core areas of pricing and profitability:
+## Business Questions:
 
 1. **Product Profitability:** Which products generate the most revenue and gross profit, and how effectively do they convert list-price value into realized revenue?
-2. **Pricing Waterfall:** How do discounts, promotions, rebates, and freight affect realized revenue?
-3. **Pricing Validation:** Can recorded revenue be reconciled to reconstructed pricing calculations, and where do material discrepancies occur?
-4. **Customer Profitability:** Which customers and segments generate the strongest margins, and which accounts perform below company-wide benchmarks?
-5. **Cost & Margin Trends:** How have manufacturing costs and gross margins changed between 2023 and 2025?
-6. **Price Trends:** Has average selling price growth kept pace with manufacturing cost inflation, and which products warrant further pricing investigation?
 
+2. **Pricing Waterfall:** How do discounts, promotions, rebates, and freight charges affect realized revenue, and can the underlying pricing waterfall ACCURATELY reconstruct recorded transaction revenue?
+
+3. **Pricing Validation:** Which transactions exhibit the largest discrepancies between reconstructed and recorded revenue, and how does the number of pricing adjustments relate to reconciliation variance?
+
+4. **Customer Profitability:** Which customers and segments generate the strongest margins, and which accounts perform below company-wide benchmarks?
+
+5. **Cost & Margin Trends:** How have manufacturing costs and gross margins changed between 2023 and 2025, and which products and categories are experiencing the greatest margin pressure that may warrant further pricing investigation?
+
+6. **Price Trends:** Has average selling price growth kept pace with manufacturing cost inflation, and which products warrant further pricing investigation?
 
 ## Methodology & Technologies:
 
@@ -61,41 +27,13 @@ This project investigates six core areas of pricing and profitability:
 - **Microsoft Power BI** — Planned dashboard development and data visualization
 - **GitHub** — Version control and project documentation
 
+## Skills Demonstrated
 
-## Dataset
+**SQL & Data Analysis:** Relational database design and multi-table joins, Common Table Expressions (CTEs), Window functions (`LAG()`, `RANK()`), Conditional aggregation and `CASE WHEN`, Data validation and reconciliation, Handling null values and division by zero with `NULLIF()`
 
-This project uses a **synthetic relational pricing dataset** created specifically
-for analytical practice and portfolio development. The data does not represent
-actual company, customer, employee, or transactional information.
-
-The dataset contains:
-
-- **10,000 orders**
-- **750 customers**
-- **50 products**
-- **40 sales representatives**
-
-The broader dataset also includes historical pricing, cost, competitor pricing,
-discount, and sales target data that will be incorporated into later stages of
-the analysis.
-
-The complete synthetic source dataset is available in [`data/raw`](data/raw),
-with additional documentation available in the
-[`documentation`](documentation) directory.
-
-Key transactional fields include:
-
-- List unit price
-- Quantity
-- Revenue
-- Standard and total cost
-- Gross profit
-- Gross margin
-- Discount percentage
-- Promotion percentage
-- Rebate percentage
-- Freight fees
-
+**Power BI:** Data modeling, DAX measures, KPI cards, interactive filtering, conditional formatting, and profitability dashboards.
+ 
+**Pricing & Commercial Analytics:** Revenue and gross profit analysis, Gross margin and profitability benchmarking, Average selling price (ASP) analysis, Price realization and pricing waterfall analysis, Customer segmentation and profitability screening, Manufacturing cost inflation analysis, Year-over-year growth and percentage-point comparisons, Product-level pricing pressure identification
 
 ## Analysis
 
@@ -103,7 +41,7 @@ Key transactional fields include:
 
 **SQL File:** [01_product_pricing_analysis.sql](sql/01_product_pricing_analysis.sql)
 
-Business Question: Which products generate the greatest revenue and gross profit, and how effectively do they convert list-price value into realized revenue while maintaining profitability?
+1. <u><strong>Business Question:</strong></u> Which products generate the most revenue and gross profit, and how effectively do they convert list-price value into realized revenue?
 
 Analyzes product-level commercial performance using metrics including:
 
@@ -129,7 +67,7 @@ gross profit with no discrepancies exceeding $1.00.
 
 **SQL File:** [02_price_waterfall_validation.sql](sql/02_price_waterfall_validation.sql)
 
-Business Question: How do discounts, promotions, rebates, and freight charges affect realized revenue, and can the underlying pricing waterfall accurately reconstruct recorded transaction revenue?
+2. <u><strong>Business Question:</strong></u> How do discounts, promotions, rebates, and freight charges affect realized revenue, and can the underlying pricing waterfall accurately reconstruct recorded transaction revenue?
 
 Reconstructs order-level revenue from:
 
@@ -149,7 +87,7 @@ reconciliation.
 
 **SQL File:** [03_price_waterfall_outlier_analysis.sql](sql/03_price_waterfall_outlier_analysis.sql)
 
-Business Question: Which transactions exhibit the largest discrepancies between reconstructed and recorded revenue, and how does the number of pricing adjustments relate to reconciliation variance?
+3. <u><strong>Business Question:</strong></u> Which transactions exhibit the largest discrepancies between reconstructed and recorded revenue, and how does the number of pricing adjustments relate to reconciliation variance?
 
 Evaluates the accuracy of the reconstructed pricing waterfall and investigates 
 material reconciliation discrepancies.
@@ -176,12 +114,13 @@ of pricing adjustments applied.
 adjustments were applied, indicating an association between pricing adjustment 
 complexity and reconciliation variance.
 
-
 ### 04 — Customer Profitability Analysis
 
 **SQL File:** [04_customer_profitability_analysis.sql](sql/04_customer_profitability_analysis.sql)
 
-**Business Question:** Which customers and customer segments generate the greatest revenue and gross profit, and which accounts warrant further pricing review?
+![Customer Profitability](screenshots/03_customer_profitability.png)
+
+4. **Business Question:** Which customers and segments generate the strongest margins, and which accounts perform below company-wide benchmarks?
 
 **Objective:** Evaluate customer profitability, purchasing behavior, price realization, and estimated annual sales potential to identify differences in financial performance and opportunities for further investigation.
 
@@ -213,7 +152,7 @@ Accounts identified through the screening process are candidates for further ana
 
 **SQL File:** [05_cost_margin_trend_analysis.sql](sql/05_cost_margin_trend_analysis.sql)
 
-Business Question: How have manufacturing costs and gross margins changed between 2023 and 2025, and which products and categories are experiencing the greatest margin pressure that may warrant further pricing investigation?
+5. <u><strong>Business Question:</strong></u> How have manufacturing costs and gross margins changed between 2023 and 2025, and which products and categories are experiencing the greatest margin pressure that may warrant further pricing investigation?
 
 **Analysis Performed:**
 - Annual manufacturing unit cost trends
@@ -254,7 +193,7 @@ Further analysis of realized selling prices, discounts, and product mix is neces
 
 **File:** [`sql/06_price_trend_analysis.sql`](sql/06_price_trend_analysis.sql)
 
-**Business Question:** How have average selling prices (ASP) and price realization changed between 2023 and 2025, and which products and categories are experiencing manufacturing cost growth that outpaces realized selling price growth, potentially creating pricing pressure?
+6. **Business Question:** Has average selling price growth kept pace with manufacturing cost inflation, and which products warrant further pricing investigation?
 
 **Analyses performed:**
 - Annual average selling price trends
@@ -276,32 +215,52 @@ Further analysis of realized selling prices, discounts, and product mix is neces
 The analysis identifies products and categories where realized selling price growth may not be keeping pace with manufacturing cost inflation. These findings can help prioritize further investigation into pricing adjustments, discounting practices, product mix, and profitability.
 
 **Methodology note:** ASP is calculated as total revenue divided by units sold and includes freight revenue. Manufacturing costs are annual averages of monthly product costs. Price-cost growth gaps are screening indicators, not direct measures of gross margin deterioration.
+---
+# Key Business Findings
 
-## Technical Skills Demonstrated
+| Performance Metric | 2023 | 2025 | Change |
+|---|---:|---:|---:|
+| Total revenue | $13.02M | $13.06M | +0.30% |
+| Average selling price | $362.82 | $374.73 | +3.28% |
+| Average manufacturing unit cost | $218.48 | $242.86 | +11.16% |
+| Gross profit | $4.85M | $4.49M | −7.36% |
+| Gross margin | 37.23% | 34.39% | −2.84 pp |
 
-**SQL & Data Analysis**
-- Relational database design and multi-table joins
-- Common Table Expressions (CTEs)
-- Window functions (`LAG()`, `RANK()`)
-- Conditional aggregation and `CASE WHEN`
-- Data validation and reconciliation
-- Handling null values and division by zero with `NULLIF()`
+### Key Insights
 
-**Pricing & Commercial Analytics**
-- Revenue and gross profit analysis
-- Gross margin and profitability benchmarking
-- Average selling price (ASP) analysis
-- Price realization and pricing waterfall analysis
-- Customer segmentation and profitability screening
-- Manufacturing cost inflation analysis
-- Year-over-year growth and percentage-point comparisons
-- Product-level pricing pressure identification
+**1. Profitability declined despite higher average selling prices.**
 
-**Tools**
-- MySQL
-- MySQL Workbench
-- GitHub
-- Microsoft Power BI — Planned
+Gross margin fell by 2.84 percentage points between 2023 and 2025, while average selling price increased by 3.28%. Manufacturing unit costs also increased, highlighting the importance of investigating pricing, cost, and product-mix changes together.
+
+**2. High-revenue categories warrant closer pricing review.**
+
+Power Tools generated approximately $4.76 million in 2025 revenue but experienced a 3.37-percentage-point decline in gross margin between 2023 and 2025. Compressors experienced the largest category margin decline at 3.56 percentage points.
+
+**3. Customer profitability varies significantly by segment.**
+
+Strategic Enterprise customers recorded a 32.82% gross margin and 84.78% price realization across the analysis period, both below company-wide benchmarks of 35.93% and 89.59%, respectively.
+
+**4. Product-level analysis identified potential pricing pressure.**
+
+Product 689082 experienced 3.65% average selling price growth compared with 12.36% manufacturing cost growth, producing a negative price-cost growth gap of 8.71 percentage points.
+
+### Business Recommendations
+
+The findings support prioritizing pricing and profitability reviews for high-revenue categories with declining margins, customer segments performing below company-wide benchmarks, and products where manufacturing cost growth exceeds realized selling price growth.
+
+Before recommending specific price changes, further analysis should evaluate transaction-level profitability, discounting, product mix, customer demand, and competitive positioning.
+
+**Methodology note:** Average selling price includes freight revenue and may be affected by sales mix. Manufacturing unit cost trends use unweighted monthly product-level averages, while gross margin calculations use recorded order-level financial results. These comparisons identify areas for investigation rather than establishing direct causation.
+
+## Dataset
+
+The complete synthetic source dataset is available in [`data/raw`](data/raw),
+with additional documentation available in the
+[`documentation`](documentation) directory.
+
+This project uses a **synthetic relational pricing dataset** created specifically
+for analytical practice and portfolio development. The data does not represent
+actual company, customer, employee, or transactional information.
 
 ## Repository Structure
 
